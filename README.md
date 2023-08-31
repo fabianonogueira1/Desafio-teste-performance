@@ -20,13 +20,13 @@ Instruções
    - Relatório de execução dos testes
    - Demais considerações pertinentes ao teste
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> INSTRUÇÃO DE INSTALAÇÃO <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+* INSTRUÇÃO DE INSTALAÇÃO * 
 
 Baixar o JMETER no site https://jmeter.apache.org/download_jmeter.cgi
 Instalar o certificado de Jmeter no proxi do Browser
 Utilizada a interface grafica do Jmeter para desenvolver o script
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SCRIPT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+* SCRIPT *
 
 Desafio-teste-performacnce > ADICINAR > tHREAD > GRUPO USUARIOS 
 Teste de Performance Carga > 
@@ -40,12 +40,12 @@ Asserção de Duração
 Variáveis Definidas Pelo Usuário
 Tempo de Espera
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> RESULTADO DE TESTES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+* RESULTADO DE TESTES * 
 
 Relatório teste de performance nivel aceitavel acima de 90% de aprovação na categoria CONSULTAR DESTINO, ENCONTRAR VOOS, PAGAMENTO, CONFIRMAÇÃO DE PAGAMENTO tempo de resposta abaixo de 2 segundos para todos os parametros.
 Relatório teste de carga 250 requisições dentro do tempo de 2 segundos, ok.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OBSERVAÇÕES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+* OBSERVAÇÕES *
 
 Site do Case não é funcional MENSSAGEM DE PAGE EXPIRED na pagina REGISTER impossibilitando de fazer login e realizar nova venda  <img width="957" alt="image" src="https://github.com/fabianonogueira1/Desafio-teste-performance/assets/91293443/b8f14a10-4aa3-470b-b32f-2f04736b8f66">
 
