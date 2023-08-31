@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693522146731,1672,Consultar Destino,200,OK,Teste de Performance 1-84,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1663,0,1412
+1693522147089,1315,Consultar Destino,200,OK,Teste de Performance 1-174,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1305,0,1056
+1693522146518,1888,Consultar Destino,200,OK,Teste de Performance 1-8,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1878,0,1624
+1693522147390,1018,Consultar Destino,200,OK,Teste de Performance 1-249,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1006,0,751
+1693522146827,1581,Consultar Destino,200,OK,Teste de Performance 1-108,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1571,0,1315
+1693522146903,1505,Consultar Destino,200,OK,Teste de Performance 1-127,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1495,0,1244
+1693522146516,1896,Consultar Destino,200,OK,Teste de Performance 1-1,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1883,0,1627
+1693522146654,1766,Consultar Destino,200,OK,Teste de Performance 1-65,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1754,0,1492
+1693522146815,1609,Consultar Destino,200,OK,Teste de Performance 1-105,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1597,0,1332
+1693522147046,1378,Consultar Destino,200,OK,Teste de Performance 1-163,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1368,0,1097
+1693522146518,1920,Consultar Destino,200,OK,Teste de Performance 1-21,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1908,0,1625
+1693522147015,1425,Consultar Destino,200,OK,Teste de Performance 1-155,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1414,0,1128
+1693522146517,1928,Consultar Destino,200,OK,Teste de Performance 1-20,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1916,0,1624
+1693522147063,1397,Consultar Destino,200,OK,Teste de Performance 1-167,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1386,0,1080
+1693522146518,1946,Consultar Destino,200,OK,Teste de Performance 1-14,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1934,0,1623
+1693522146679,1788,Consultar Destino,200,OK,Teste de Performance 1-71,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1777,0,1467
+1693522146566,1905,Consultar Destino,200,OK,Teste de Performance 1-43,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1892,0,1580
+1693522146558,1917,Consultar Destino,200,OK,Teste de Performance 1-41,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1904,0,1587
+1693522146519,1960,Consultar Destino,200,OK,Teste de Performance 1-31,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1948,0,1635
+1693522146834,1645,Consultar Destino,200,OK,Teste de Performance 1-110,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1633,0,1307
+1693522146599,1893,Consultar Destino,200,OK,Teste de Performance 1-51,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1880,0,1547
+1693522146937,1557,Consultar Destino,200,OK,Teste de Performance 1-136,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1545,0,1205
+1693522146943,1553,Consultar Destino,200,OK,Teste de Performance 1-137,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1542,0,1198
+1693522146806,1693,Consultar Destino,200,OK,Teste de Performance 1-103,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1681,0,1336
+1693522146546,1958,Consultar Destino,200,OK,Teste de Performance 1-38,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1946,0,1610
+1693522146518,1988,Consultar Destino,200,OK,Teste de Performance 1-5,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1977,0,1624
+1693522147145,1366,Consultar Destino,200,OK,Teste de Performance 1-188,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1354,0,1002
+1693522147221,1290,Consultar Destino,200,OK,Teste de Performance 1-207,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1278,0,920
+1693522147366,1147,Consultar Destino,200,OK,Teste de Performance 1-243,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1135,0,783
+1693522146516,2000,Consultar Destino,200,OK,Teste de Performance 1-19,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1988,0,1630
+1693522147203,1319,Consultar Destino,200,OK,Teste de Performance 1-202,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1308,0,957
+1693522146985,1537,Consultar Destino,200,OK,Teste de Performance 1-148,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1526,0,1171
+1693522147234,1293,Consultar Destino,200,OK,Teste de Performance 1-210,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1282,0,910
+1693522146705,1823,Consultar Destino,200,OK,Teste de Performance 1-78,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1811,0,1454
+1693522146779,1754,Consultar Destino,200,OK,Teste de Performance 1-96,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1743,0,1376
+1693522146575,1966,Consultar Destino,200,OK,Teste de Performance 1-45,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1953,0,1566
+1693522146518,2025,Consultar Destino,200,OK,Teste de Performance 1-2,text,false,"The operation lasted too long: It took 2,025 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2012,0,1640
+1693522146767,1779,Consultar Destino,200,OK,Teste de Performance 1-93,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1768,0,1378
+1693522146738,1815,Consultar Destino,200,OK,Teste de Performance 1-86,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1803,0,1410
+1693522147318,1241,Consultar Destino,200,OK,Teste de Performance 1-231,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1229,0,828
+1693522147094,1473,Consultar Destino,200,OK,Teste de Performance 1-175,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1460,0,1053
+1693522146774,1806,Consultar Destino,200,OK,Teste de Performance 1-95,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1795,0,1368
+1693522147274,1308,Consultar Destino,200,OK,Teste de Performance 1-220,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1297,0,886
+1693522147076,1506,Consultar Destino,200,OK,Teste de Performance 1-170,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1493,0,1072
+1693522147327,1257,Consultar Destino,200,OK,Teste de Performance 1-233,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1244,0,818
+1693522146893,1693,Consultar Destino,200,OK,Teste de Performance 1-125,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1680,0,1253
+1693522146553,2033,Consultar Destino,200,OK,Teste de Performance 1-40,text,false,"The operation lasted too long: It took 2,033 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2022,0,1592
+1693522146763,1827,Consultar Destino,200,OK,Teste de Performance 1-92,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1815,0,1387
+1693522147270,1325,Consultar Destino,200,OK,Teste de Performance 1-219,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1312,0,875
+1693522147225,1378,Consultar Destino,200,OK,Teste de Performance 1-208,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1365,0,934
+1693522147266,1339,Consultar Destino,200,OK,Teste de Performance 1-218,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1327,0,875
+1693522146518,2094,Consultar Destino,200,OK,Teste de Performance 1-26,text,false,"The operation lasted too long: It took 2,094 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2083,0,1623
+1693522147306,1311,Consultar Destino,200,OK,Teste de Performance 1-228,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1299,0,842
+1693522147166,1455,Consultar Destino,200,OK,Teste de Performance 1-193,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1445,0,986
+1693522146921,1704,Consultar Destino,200,OK,Teste de Performance 1-132,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1691,0,1228
+1693522146867,1760,Consultar Destino,200,OK,Teste de Performance 1-118,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1748,0,1278
+1693522147314,1319,Consultar Destino,200,OK,Teste de Performance 1-229,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1306,0,831
+1693522146822,1811,Consultar Destino,200,OK,Teste de Performance 1-107,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1800,0,1335
+1693522147254,1379,Consultar Destino,200,OK,Teste de Performance 1-215,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1373,0,897
+1693522146669,1975,Consultar Destino,200,OK,Teste de Performance 1-69,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1962,0,1472
+1693522147294,1352,Consultar Destino,200,OK,Teste de Performance 1-225,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1341,0,847
+1693522147379,1267,Consultar Destino,200,OK,Teste de Performance 1-246,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1254,0,780
+1693522146818,1832,Consultar Destino,200,OK,Teste de Performance 1-106,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1819,0,1327
+1693522146535,2115,Consultar Destino,200,OK,Teste de Performance 1-35,text,false,"The operation lasted too long: It took 2,115 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2104,0,1623
+1693522146658,2002,Consultar Destino,200,OK,Teste de Performance 1-66,text,false,"The operation lasted too long: It took 2,002 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,1992,0,1490
+1693522146728,1934,Consultar Destino,200,OK,Teste de Performance 1-83,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1922,0,1422
+1693522147127,1538,Consultar Destino,200,OK,Teste de Performance 1-183,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1527,0,1018
+1693522147230,1440,Consultar Destino,200,OK,Teste de Performance 1-209,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1426,0,928
+1693522146889,1781,Consultar Destino,200,OK,Teste de Performance 1-124,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1770,0,1271
+1693522146525,2146,Consultar Destino,200,OK,Teste de Performance 1-33,text,false,"The operation lasted too long: It took 2,146 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2134,0,1636
+1693522146650,2023,Consultar Destino,200,OK,Teste de Performance 1-64,text,false,"The operation lasted too long: It took 2,023 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2010,0,1510
+1693522146518,2164,Consultar Destino,200,OK,Teste de Performance 1-18,text,false,"The operation lasted too long: It took 2,164 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2152,0,1644
+1693522147006,1683,Consultar Destino,200,OK,Teste de Performance 1-153,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1670,0,1155
+1693522146695,1994,Consultar Destino,200,OK,Teste de Performance 1-75,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1981,0,1450
+1693522147170,1520,Consultar Destino,200,OK,Teste de Performance 1-194,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1508,0,972
+1693522146770,1925,Consultar Destino,200,OK,Teste de Performance 1-94,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1912,0,1374
+1693522146662,2035,Consultar Destino,200,OK,Teste de Performance 1-67,text,false,"The operation lasted too long: It took 2,035 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2023,0,1479
+1693522147334,1366,Consultar Destino,200,OK,Teste de Performance 1-235,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1357,0,827
+1693522147017,1689,Consultar Destino,200,OK,Teste de Performance 1-156,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1679,0,1125
+1693522146751,1962,Consultar Destino,200,OK,Teste de Performance 1-89,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1950,0,1406
+1693522147066,1647,Consultar Destino,200,OK,Teste de Performance 1-168,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1635,0,1080
+1693522146994,1719,Consultar Destino,200,OK,Teste de Performance 1-150,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1707,0,1165
+1693522146518,2197,Consultar Destino,200,OK,Teste de Performance 1-23,text,false,"The operation lasted too long: It took 2,197 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2185,0,1627
+1693522147154,1565,Consultar Destino,200,OK,Teste de Performance 1-190,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1554,0,991
+1693522147174,1547,Consultar Destino,200,OK,Teste de Performance 1-195,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1534,0,970
+1693522146958,1765,Consultar Destino,200,OK,Teste de Performance 1-141,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1753,0,1192
+1693522146831,1894,Consultar Destino,200,OK,Teste de Performance 1-109,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1882,0,1331
+1693522146962,1770,Consultar Destino,200,OK,Teste de Performance 1-142,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1759,0,1184
+1693522147395,1341,Consultar Destino,200,OK,Teste de Performance 1-250,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1330,0,752
+1693522147102,1636,Consultar Destino,200,OK,Teste de Performance 1-177,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1623,0,1047
+1693522146946,1801,Consultar Destino,200,OK,Teste de Performance 1-138,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1790,0,1199
+1693522146530,2219,Consultar Destino,200,OK,Teste de Performance 1-34,text,false,"The operation lasted too long: It took 2,219 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2206,0,1632
+1693522146907,1843,Consultar Destino,200,OK,Teste de Performance 1-128,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1831,0,1244
+1693522146521,2231,Consultar Destino,200,OK,Teste de Performance 1-32,text,false,"The operation lasted too long: It took 2,231 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2220,0,1630
+1693522146999,1759,Consultar Destino,200,OK,Teste de Performance 1-151,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1746,0,1153
+1693522147050,1708,Consultar Destino,200,OK,Teste de Performance 1-164,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1697,0,1100
+1693522146873,1887,Consultar Destino,200,OK,Teste de Performance 1-120,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1879,0,1274
+1693522146647,2117,Consultar Destino,200,OK,Teste de Performance 1-63,text,false,"The operation lasted too long: It took 2,117 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2104,0,1514
+1693522147134,1632,Consultar Destino,200,OK,Teste de Performance 1-185,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1621,0,1021
+1693522147338,1434,Consultar Destino,200,OK,Teste de Performance 1-236,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1422,0,813
+1693522147374,1404,Consultar Destino,200,OK,Teste de Performance 1-245,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1392,0,786
+1693522146886,1899,Consultar Destino,200,OK,Teste de Performance 1-123,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1888,0,1264
+1693522146911,1878,Consultar Destino,200,OK,Teste de Performance 1-129,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1865,0,1238
+1693522146518,2277,Consultar Destino,200,OK,Teste de Performance 1-6,text,false,"The operation lasted too long: It took 2,277 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2265,0,1629
+1693522146516,2280,Consultar Destino,200,OK,Teste de Performance 1-15,text,false,"The operation lasted too long: It took 2,280 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2269,0,1640
+1693522146721,2078,Consultar Destino,200,OK,Teste de Performance 1-82,text,false,"The operation lasted too long: It took 2,078 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2068,0,1438
+1693522147054,1748,Consultar Destino,200,OK,Teste de Performance 1-165,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1737,0,1094
+1693522147079,1727,Consultar Destino,200,OK,Teste de Performance 1-171,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1716,0,1070
+1693522147292,1515,Consultar Destino,200,OK,Teste de Performance 1-224,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1504,0,850
+1693522147238,1573,Consultar Destino,200,OK,Teste de Performance 1-211,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1561,0,913
+1693522146846,1968,Consultar Destino,200,OK,Teste de Performance 1-113,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1955,0,1308
+1693522147287,1527,Consultar Destino,200,OK,Teste de Performance 1-223,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1515,0,862
+1693522146855,1961,Consultar Destino,200,OK,Teste de Performance 1-115,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1947,0,1295
+1693522147159,1661,Consultar Destino,200,OK,Teste de Performance 1-191,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1649,0,989
+1693522147030,1790,Consultar Destino,200,OK,Teste de Performance 1-159,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1778,0,1125
+1693522147342,1480,Consultar Destino,200,OK,Teste de Performance 1-237,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1468,0,799
+1693522146734,2088,Consultar Destino,200,OK,Teste de Performance 1-85,text,false,"The operation lasted too long: It took 2,088 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2076,0,1421
+1693522147345,1482,Consultar Destino,200,OK,Teste de Performance 1-238,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1469,0,812
+1693522147206,1637,Consultar Destino,200,OK,Teste de Performance 1-203,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1625,0,950
+1693522146718,2129,Consultar Destino,200,OK,Teste de Performance 1-81,text,false,"The operation lasted too long: It took 2,129 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2117,0,1432
+1693522146950,1899,Consultar Destino,200,OK,Teste de Performance 1-139,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1887,0,1209
+1693522147025,1828,Consultar Destino,200,OK,Teste de Performance 1-158,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1818,0,1128
+1693522146789,2067,Consultar Destino,200,OK,Teste de Performance 1-99,text,false,"The operation lasted too long: It took 2,067 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2055,0,1371
+1693522146915,1945,Consultar Destino,200,OK,Teste de Performance 1-130,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1932,0,1231
+1693522147323,1540,Consultar Destino,200,OK,Teste de Performance 1-232,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1528,0,835
+1693522146858,2005,Consultar Destino,200,OK,Teste de Performance 1-116,text,false,"The operation lasted too long: It took 2,005 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,1993,0,1303
+1693522147315,1551,Consultar Destino,200,OK,Teste de Performance 1-230,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1539,0,839
+1693522147369,1499,Consultar Destino,200,OK,Teste de Performance 1-244,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1487,0,784
+1693522147299,1571,Consultar Destino,200,OK,Teste de Performance 1-226,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1559,0,854
+1693522146538,2332,Consultar Destino,200,OK,Teste de Performance 1-36,text,false,"The operation lasted too long: It took 2,332 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2320,0,1615
+1693522146929,1945,Consultar Destino,200,OK,Teste de Performance 1-134,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1933,0,1223
+1693522146876,1998,Consultar Destino,200,OK,Teste de Performance 1-121,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1986,0,1273
+1693522146882,1998,Consultar Destino,200,OK,Teste de Performance 1-122,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1986,0,1259
+1693522146606,2276,Consultar Destino,200,OK,Teste de Performance 1-53,text,false,"The operation lasted too long: It took 2,276 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2264,0,1556
+1693522146925,1963,Consultar Destino,200,OK,Teste de Performance 1-133,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1951,0,1227
+1693522147218,1676,Consultar Destino,200,OK,Teste de Performance 1-206,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1664,0,938
+1693522146518,2387,Consultar Destino,200,OK,Teste de Performance 1-30,text,false,"The operation lasted too long: It took 2,387 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2376,0,1637
+1693522146631,2276,Consultar Destino,200,OK,Teste de Performance 1-59,text,false,"The operation lasted too long: It took 2,276 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2263,0,1528
+1693522146639,2270,Consultar Destino,200,OK,Teste de Performance 1-61,text,false,"The operation lasted too long: It took 2,270 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2258,0,1520
+1693522147187,1731,Consultar Destino,200,OK,Teste de Performance 1-198,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1718,0,971
+1693522146850,2068,Consultar Destino,200,OK,Teste de Performance 1-114,text,false,"The operation lasted too long: It took 2,068 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2057,0,1305
+1693522146516,2402,Consultar Destino,200,OK,Teste de Performance 1-27,text,false,"The operation lasted too long: It took 2,402 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2389,0,1640
+1693522147350,1577,Consultar Destino,200,OK,Teste de Performance 1-239,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1565,0,810
+1693522146701,2230,Consultar Destino,200,OK,Teste de Performance 1-77,text,false,"The operation lasted too long: It took 2,230 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2217,0,1458
+1693522146799,2143,Consultar Destino,200,OK,Teste de Performance 1-101,text,false,"The operation lasted too long: It took 2,143 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2132,0,1357
+1693522147261,1687,Consultar Destino,200,OK,Teste de Performance 1-217,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1675,0,901
+1693522146582,2373,Consultar Destino,200,OK,Teste de Performance 1-47,text,false,"The operation lasted too long: It took 2,373 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2363,0,1577
+1693522146989,1968,Consultar Destino,200,OK,Teste de Performance 1-149,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1956,0,1160
+1693522146715,2242,Consultar Destino,200,OK,Teste de Performance 1-80,text,false,"The operation lasted too long: It took 2,242 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2230,0,1435
+1693522147122,1837,Consultar Destino,200,OK,Teste de Performance 1-182,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1825,0,1029
+1693522147194,1765,Consultar Destino,200,OK,Teste de Performance 1-200,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1753,0,965
+1693522147110,1853,Consultar Destino,200,OK,Teste de Performance 1-179,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1842,0,1038
+1693522146954,2018,Consultar Destino,200,OK,Teste de Performance 1-140,text,false,"The operation lasted too long: It took 2,018 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2009,0,1203
+1693522146918,2057,Consultar Destino,200,OK,Teste de Performance 1-131,text,false,"The operation lasted too long: It took 2,057 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2045,0,1234
+1693522147023,1955,Consultar Destino,200,OK,Teste de Performance 1-157,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1943,0,1119
+1693522146757,2223,Consultar Destino,200,OK,Teste de Performance 1-91,text,false,"The operation lasted too long: It took 2,223 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2218,0,1403
+1693522147058,1930,Consultar Destino,200,OK,Teste de Performance 1-166,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1917,0,1104
+1693522147011,1979,Consultar Destino,200,OK,Teste de Performance 1-154,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1967,0,1150
+1693522146516,2476,Consultar Destino,200,OK,Teste de Performance 1-16,text,false,"The operation lasted too long: It took 2,476 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2464,0,1632
+1693522147035,1960,Consultar Destino,200,OK,Teste de Performance 1-160,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1947,0,1126
+1693522147258,1739,Consultar Destino,200,OK,Teste de Performance 1-216,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1726,0,894
+1693522146897,2100,Consultar Destino,200,OK,Teste de Performance 1-126,text,false,"The operation lasted too long: It took 2,100 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2089,0,1263
+1693522147277,1732,Consultar Destino,200,OK,Teste de Performance 1-221,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1718,0,871
+1693522146691,2323,Consultar Destino,200,OK,Teste de Performance 1-74,text,false,"The operation lasted too long: It took 2,323 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2312,0,1458
+1693522146747,2269,Consultar Destino,200,OK,Teste de Performance 1-88,text,false,"The operation lasted too long: It took 2,269 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2256,0,1411
+1693522146516,2500,Consultar Destino,200,OK,Teste de Performance 1-17,text,false,"The operation lasted too long: It took 2,500 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2487,0,1644
+1693522147247,1775,Consultar Destino,200,OK,Teste de Performance 1-213,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1762,0,906
+1693522147085,1937,Consultar Destino,200,OK,Teste de Performance 1-173,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1926,0,1069
+1693522146518,2508,Consultar Destino,200,OK,Teste de Performance 1-4,text,false,"The operation lasted too long: It took 2,508 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2496,0,1641
+1693522146517,2518,Consultar Destino,200,OK,Teste de Performance 1-7,text,false,"The operation lasted too long: It took 2,518 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2504,0,1636
+1693522146682,2361,Consultar Destino,200,OK,Teste de Performance 1-72,text,false,"The operation lasted too long: It took 2,361 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2349,0,1463
+1693522147130,1929,Consultar Destino,200,OK,Teste de Performance 1-184,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1918,0,1029
+1693522146516,2546,Consultar Destino,200,OK,Teste de Performance 1-24,text,false,"The operation lasted too long: It took 2,546 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2534,0,1637
+1693522146570,2514,Consultar Destino,200,OK,Teste de Performance 1-44,text,false,"The operation lasted too long: It took 2,514 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2502,0,1582
+1693522146686,2411,Consultar Destino,200,OK,Teste de Performance 1-73,text,false,"The operation lasted too long: It took 2,411 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2398,0,1466
+1693522146516,2583,Consultar Destino,200,OK,Teste de Performance 1-13,text,false,"The operation lasted too long: It took 2,583 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2571,0,1635
+1693522146811,2294,Consultar Destino,200,OK,Teste de Performance 1-104,text,false,"The operation lasted too long: It took 2,294 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2282,0,1338
+1693522147359,1748,Consultar Destino,200,OK,Teste de Performance 1-241,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1735,0,803
+1693522146634,2478,Consultar Destino,200,OK,Teste de Performance 1-60,text,false,"The operation lasted too long: It took 2,478 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2467,0,1522
+1693522146594,2521,Consultar Destino,200,OK,Teste de Performance 1-50,text,false,"The operation lasted too long: It took 2,521 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2507,0,1552
+1693522146518,2604,Consultar Destino,200,OK,Teste de Performance 1-28,text,false,"The operation lasted too long: It took 2,604 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2592,0,1632
+1693522146591,2533,Consultar Destino,200,OK,Teste de Performance 1-49,text,false,"The operation lasted too long: It took 2,533 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2521,0,1561
+1693522146578,2550,Consultar Destino,200,OK,Teste de Performance 1-46,text,false,"The operation lasted too long: It took 2,550 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2538,0,1583
+1693522146517,2613,Consultar Destino,200,OK,Teste de Performance 1-11,text,false,"The operation lasted too long: It took 2,613 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2601,0,1638
+1693522146627,2513,Consultar Destino,200,OK,Teste de Performance 1-58,text,false,"The operation lasted too long: It took 2,513 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2502,0,1535
+1693522147330,1812,Consultar Destino,200,OK,Teste de Performance 1-234,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1800,0,820
+1693522146803,2363,Consultar Destino,200,OK,Teste de Performance 1-102,text,false,"The operation lasted too long: It took 2,363 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2352,0,1351
+1693522146843,2332,Consultar Destino,200,OK,Teste de Performance 1-112,text,false,"The operation lasted too long: It took 2,332 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2321,0,1318
+1693522146622,2559,Consultar Destino,200,OK,Teste de Performance 1-57,text,false,"The operation lasted too long: It took 2,559 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2547,0,1528
+1693522146839,2367,Consultar Destino,200,OK,Teste de Performance 1-111,text,false,"The operation lasted too long: It took 2,367 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2357,0,1311
+1693522147162,2049,Consultar Destino,200,OK,Teste de Performance 1-192,text,false,"The operation lasted too long: It took 2,049 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2038,0,991
+1693522147042,2173,Consultar Destino,200,OK,Teste de Performance 1-162,text,false,"The operation lasted too long: It took 2,173 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2161,0,1116
+1693522147386,1834,Consultar Destino,200,OK,Teste de Performance 1-248,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1824,0,762
+1693522146743,2477,Consultar Destino,200,OK,Teste de Performance 1-87,text,false,"The operation lasted too long: It took 2,477 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2467,0,1409
+1693522146965,2283,Consultar Destino,200,OK,Teste de Performance 1-143,text,false,"The operation lasted too long: It took 2,283 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2271,0,1195
+1693522146981,2284,Consultar Destino,200,OK,Teste de Performance 1-147,text,false,"The operation lasted too long: It took 2,284 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2273,0,1175
+1693522147113,2154,Consultar Destino,200,OK,Teste de Performance 1-180,text,false,"The operation lasted too long: It took 2,154 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2143,0,1041
+1693522146518,2754,Consultar Destino,200,OK,Teste de Performance 1-22,text,false,"The operation lasted too long: It took 2,754 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2742,0,1640
+1693522146711,2561,Consultar Destino,200,OK,Teste de Performance 1-79,text,false,"The operation lasted too long: It took 2,561 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2547,0,1444
+1693522146863,2425,Consultar Destino,200,OK,Teste de Performance 1-117,text,false,"The operation lasted too long: It took 2,425 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2414,0,1297
+1693522146619,2687,Consultar Destino,200,OK,Teste de Performance 1-56,text,false,"The operation lasted too long: It took 2,687 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2676,0,1541
+1693522146697,2611,Consultar Destino,200,OK,Teste de Performance 1-76,text,false,"The operation lasted too long: It took 2,611 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2600,0,1465
+1693522147142,2166,Consultar Destino,200,OK,Teste de Performance 1-187,text,false,"The operation lasted too long: It took 2,166 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2155,0,1011
+1693522147071,2240,Consultar Destino,200,OK,Teste de Performance 1-169,text,false,"The operation lasted too long: It took 2,240 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2228,0,1091
+1693522147282,2033,Consultar Destino,200,OK,Teste de Performance 1-222,text,false,"The operation lasted too long: It took 2,033 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2020,0,880
+1693522146977,2343,Consultar Destino,200,OK,Teste de Performance 1-146,text,false,"The operation lasted too long: It took 2,343 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2332,0,1185
+1693522147354,1978,Consultar Destino,200,OK,Teste de Performance 1-240,text,true,,4757,191,250,250,https://www.blazedemo.com/index.php,1966,0,795
+1693522146518,2826,Consultar Destino,200,OK,Teste de Performance 1-12,text,false,"The operation lasted too long: It took 2,826 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2814,0,1639
+1693522146666,2682,Consultar Destino,200,OK,Teste de Performance 1-68,text,false,"The operation lasted too long: It took 2,682 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2669,0,1492
+1693522147191,2197,Consultar Destino,200,OK,Teste de Performance 1-199,text,false,"The operation lasted too long: It took 2,197 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2185,0,970
+1693522146542,2853,Consultar Destino,200,OK,Teste de Performance 1-37,text,false,"The operation lasted too long: It took 2,853 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2840,0,1609
+1693522147081,2314,Consultar Destino,200,OK,Teste de Performance 1-172,text,false,"The operation lasted too long: It took 2,314 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2301,0,1072
+1693522146753,2656,Consultar Destino,200,OK,Teste de Performance 1-90,text,false,"The operation lasted too long: It took 2,656 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2643,0,1408
+1693522147039,2374,Consultar Destino,200,OK,Teste de Performance 1-161,text,false,"The operation lasted too long: It took 2,374 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2362,0,1122
+1693522147097,2316,Consultar Destino,200,OK,Teste de Performance 1-176,text,false,"The operation lasted too long: It took 2,316 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2304,0,1061
+1693522146603,2813,Consultar Destino,200,OK,Teste de Performance 1-52,text,false,"The operation lasted too long: It took 2,813 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2800,0,1544
+1693522146610,2820,Consultar Destino,200,OK,Teste de Performance 1-54,text,false,"The operation lasted too long: It took 2,820 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2809,0,1547
+1693522147178,2256,Consultar Destino,200,OK,Teste de Performance 1-196,text,false,"The operation lasted too long: It took 2,256 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2244,0,979
+1693522146934,2507,Consultar Destino,200,OK,Teste de Performance 1-135,text,false,"The operation lasted too long: It took 2,507 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2494,0,1223
+1693522147210,2281,Consultar Destino,200,OK,Teste de Performance 1-204,text,false,"The operation lasted too long: It took 2,281 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2270,0,941
+1693522147118,2376,Consultar Destino,200,OK,Teste de Performance 1-181,text,false,"The operation lasted too long: It took 2,376 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2363,0,1044
+1693522146783,2714,Consultar Destino,200,OK,Teste de Performance 1-97,text,false,"The operation lasted too long: It took 2,714 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2702,0,1363
+1693522147182,2317,Consultar Destino,200,OK,Teste de Performance 1-197,text,false,"The operation lasted too long: It took 2,317 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2305,0,963
+1693522147107,2405,Consultar Destino,200,OK,Teste de Performance 1-178,text,false,"The operation lasted too long: It took 2,405 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2392,0,1037
+1693522146970,2548,Consultar Destino,200,OK,Teste de Performance 1-144,text,false,"The operation lasted too long: It took 2,548 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2536,0,1193
+1693522146587,2938,Consultar Destino,200,OK,Teste de Performance 1-48,text,false,"The operation lasted too long: It took 2,938 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2925,0,1569
+1693522146518,3010,Consultar Destino,200,OK,Teste de Performance 1-3,text,false,"The operation lasted too long: It took 3,010 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2998,0,1642
+1693522146516,3031,Consultar Destino,200,OK,Teste de Performance 1-25,text,false,"The operation lasted too long: It took 3,031 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3019,0,1637
+1693522147363,2224,Consultar Destino,200,OK,Teste de Performance 1-242,text,false,"The operation lasted too long: It took 2,224 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2212,0,793
+1693522146563,3038,Consultar Destino,200,OK,Teste de Performance 1-42,text,false,"The operation lasted too long: It took 3,038 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3026,0,1591
+1693522146794,2816,Consultar Destino,200,OK,Teste de Performance 1-100,text,false,"The operation lasted too long: It took 2,816 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2805,0,1360
+1693522147137,2484,Consultar Destino,200,OK,Teste de Performance 1-186,text,false,"The operation lasted too long: It took 2,484 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2473,0,1017
+1693522147382,2243,Consultar Destino,200,OK,Teste de Performance 1-247,text,false,"The operation lasted too long: It took 2,243 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2230,0,823
+1693522146787,2864,Consultar Destino,200,OK,Teste de Performance 1-98,text,false,"The operation lasted too long: It took 2,864 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2853,0,1369
+1693522146552,3099,Consultar Destino,200,OK,Teste de Performance 1-39,text,false,"The operation lasted too long: It took 3,099 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3088,0,1603
+1693522146643,3041,Consultar Destino,200,OK,Teste de Performance 1-62,text,false,"The operation lasted too long: It took 3,041 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3029,0,1513
+1693522147243,2466,Consultar Destino,200,OK,Teste de Performance 1-212,text,false,"The operation lasted too long: It took 2,466 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2454,0,915
+1693522147149,2560,Consultar Destino,200,OK,Teste de Performance 1-189,text,false,"The operation lasted too long: It took 2,560 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2548,0,1009
+1693522147251,2506,Consultar Destino,200,OK,Teste de Performance 1-214,text,false,"The operation lasted too long: It took 2,506 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2494,0,904
+1693522147002,2772,Consultar Destino,200,OK,Teste de Performance 1-152,text,false,"The operation lasted too long: It took 2,772 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2760,0,1158
+1693522146516,3258,Consultar Destino,200,OK,Teste de Performance 1-29,text,false,"The operation lasted too long: It took 3,258 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3246,0,1641
+1693522147304,2491,Consultar Destino,200,OK,Teste de Performance 1-227,text,false,"The operation lasted too long: It took 2,491 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2479,0,843
+1693522146614,3246,Consultar Destino,200,OK,Teste de Performance 1-55,text,false,"The operation lasted too long: It took 3,246 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3234,0,1543
+1693522146518,3357,Consultar Destino,200,OK,Teste de Performance 1-9,text,false,"The operation lasted too long: It took 3,357 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3345,0,1642
+1693522147198,2677,Consultar Destino,200,OK,Teste de Performance 1-201,text,false,"The operation lasted too long: It took 2,677 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2665,0,963
+1693522146974,2923,Consultar Destino,200,OK,Teste de Performance 1-145,text,false,"The operation lasted too long: It took 2,923 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2911,0,1183
+1693522146869,3113,Consultar Destino,200,OK,Teste de Performance 1-119,text,false,"The operation lasted too long: It took 3,113 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3102,0,1292
+1693522146516,3472,Consultar Destino,200,OK,Teste de Performance 1-10,text,false,"The operation lasted too long: It took 3,472 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3461,0,1646
+1693522147215,2871,Consultar Destino,200,OK,Teste de Performance 1-205,text,false,"The operation lasted too long: It took 2,871 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,2859,0,947
+1693522146675,3504,Consultar Destino,200,OK,Teste de Performance 1-70,text,false,"The operation lasted too long: It took 3,504 milliseconds, but should not have lasted longer than 2,000 milliseconds.",4757,191,250,250,https://www.blazedemo.com/index.php,3492,0,1487
+1693522153408,261,Encontrar voos,200,OK,Teste de Performance 1-249,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,242,0,0
+1693522153408,261,Encontrar voos,200,OK,Teste de Performance 1-108,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,242,0,0
+1693522153405,276,Encontrar voos,200,OK,Teste de Performance 1-84,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,257,0,0
+1693522153425,263,Encontrar voos,200,OK,Teste de Performance 1-163,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,243,0,0
+1693522153412,290,Encontrar voos,200,OK,Teste de Performance 1-1,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,274,0,0
+1693522153438,264,Encontrar voos,200,OK,Teste de Performance 1-21,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,245,0,0
+1693522153405,300,Encontrar voos,200,OK,Teste de Performance 1-174,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,281,0,0
+1693522153425,288,Encontrar voos,200,OK,Teste de Performance 1-105,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,267,0,0
+1693522153445,268,Encontrar voos,200,OK,Teste de Performance 1-20,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,247,0,0
+1693522153470,271,Encontrar voos,200,OK,Teste de Performance 1-43,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,253,0,0
+1693522153406,349,Encontrar voos,200,OK,Teste de Performance 1-8,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,334,0,0
+1693522153479,276,Encontrar voos,200,OK,Teste de Performance 1-31,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,255,0,0
+1693522153408,349,Encontrar voos,200,OK,Teste de Performance 1-127,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,329,0,0
+1693522153467,293,Encontrar voos,200,OK,Teste de Performance 1-71,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,273,0,0
+1693522153500,277,Encontrar voos,200,OK,Teste de Performance 1-103,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,258,0,0
+1693522153511,274,Encontrar voos,200,OK,Teste de Performance 1-188,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,253,0,0
+1693522153492,306,Encontrar voos,200,OK,Teste de Performance 1-51,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,286,0,0
+1693522153421,379,Encontrar voos,200,OK,Teste de Performance 1-65,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,359,0,0
+1693522153506,296,Encontrar voos,200,OK,Teste de Performance 1-5,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,276,0,0
+1693522153511,291,Encontrar voos,200,OK,Teste de Performance 1-207,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,271,0,0
+1693522153544,263,Encontrar voos,200,OK,Teste de Performance 1-2,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,243,0,0
+1693522153513,299,Encontrar voos,200,OK,Teste de Performance 1-243,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,279,0,0
+1693522153549,271,Encontrar voos,200,OK,Teste de Performance 1-93,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,251,0,0
+1693522153560,271,Encontrar voos,200,OK,Teste de Performance 1-231,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,252,0,0
+1693522153568,265,Encontrar voos,200,OK,Teste de Performance 1-175,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,244,0,0
+1693522153523,316,Encontrar voos,200,OK,Teste de Performance 1-202,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,295,0,0
+1693522153523,325,Encontrar voos,200,OK,Teste de Performance 1-148,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522153533,327,Encontrar voos,200,OK,Teste de Performance 1-96,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,308,0,0
+1693522153585,278,Encontrar voos,200,OK,Teste de Performance 1-233,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,258,0,0
+1693522153553,314,Encontrar voos,200,OK,Teste de Performance 1-86,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,295,0,0
+1693522153591,278,Encontrar voos,200,OK,Teste de Performance 1-92,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,263,0,0
+1693522153583,286,Encontrar voos,200,OK,Teste de Performance 1-220,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,265,0,0
+1693522153461,428,Encontrar voos,200,OK,Teste de Performance 1-167,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,406,0,0
+1693522153595,318,Encontrar voos,200,OK,Teste de Performance 1-219,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,298,0,0
+1693522153633,280,Encontrar voos,200,OK,Teste de Performance 1-229,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,260,0,0
+1693522153650,272,Encontrar voos,200,OK,Teste de Performance 1-106,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,252,0,0
+1693522153627,311,Encontrar voos,200,OK,Teste de Performance 1-118,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,291,0,0
+1693522153625,325,Encontrar voos,200,OK,Teste de Performance 1-132,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522153671,281,Encontrar voos,200,OK,Teste de Performance 1-33,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,261,0,0
+1693522153644,311,Encontrar voos,200,OK,Teste de Performance 1-69,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,291,0,0
+1693522153660,299,Encontrar voos,200,OK,Teste de Performance 1-66,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,284,0,0
+1693522153633,326,Encontrar voos,200,OK,Teste de Performance 1-107,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522153612,347,Encontrar voos,200,OK,Teste de Performance 1-26,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,328,0,0
+1693522153633,331,Encontrar voos,200,OK,Teste de Performance 1-215,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,322,0,0
+1693522153465,511,Encontrar voos,200,OK,Teste de Performance 1-14,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,492,0,0
+1693522153673,306,Encontrar voos,200,OK,Teste de Performance 1-64,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,288,0,0
+1693522153665,314,Encontrar voos,200,OK,Teste de Performance 1-183,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,296,0,0
+1693522153495,494,Encontrar voos,200,OK,Teste de Performance 1-136,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,475,0,0
+1693522153669,326,Encontrar voos,200,OK,Teste de Performance 1-124,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,307,0,0
+1693522153583,417,Encontrar voos,200,OK,Teste de Performance 1-170,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,401,0,0
+1693522153605,398,Encontrar voos,200,OK,Teste de Performance 1-218,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,380,0,0
+1693522153650,360,Encontrar voos,200,OK,Teste de Performance 1-35,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,340,0,0
+1693522153714,306,Encontrar voos,200,OK,Teste de Performance 1-150,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,286,0,0
+1693522153760,265,Encontrar voos,200,OK,Teste de Performance 1-120,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,256,0,0
+1693522153720,311,Encontrar voos,200,OK,Teste de Performance 1-190,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,292,0,0
+1693522153739,294,Encontrar voos,200,OK,Teste de Performance 1-177,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,277,0,0
+1693522153778,262,Encontrar voos,200,OK,Teste de Performance 1-245,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,242,0,0
+1693522153646,398,Encontrar voos,200,OK,Teste de Performance 1-225,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,379,0,0
+1693522153736,315,Encontrar voos,200,OK,Teste de Performance 1-250,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,302,0,0
+1693522153689,370,Encontrar voos,200,OK,Teste de Performance 1-153,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,351,0,0
+1693522153707,356,Encontrar voos,200,OK,Teste de Performance 1-156,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,337,0,0
+1693522153701,362,Encontrar voos,200,OK,Teste de Performance 1-235,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,343,0,0
+1693522153714,355,Encontrar voos,200,OK,Teste de Performance 1-89,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,336,0,0
+1693522153796,279,Encontrar voos,200,OK,Teste de Performance 1-15,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,263,0,0
+1693522153716,361,Encontrar voos,200,OK,Teste de Performance 1-23,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,342,0,0
+1693522153732,353,Encontrar voos,200,OK,Teste de Performance 1-142,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,333,0,0
+1693522153727,362,Encontrar voos,200,OK,Teste de Performance 1-109,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,342,0,0
+1693522153516,591,Encontrar voos,200,OK,Teste de Performance 1-19,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,572,0,0
+1693522153767,342,Encontrar voos,200,OK,Teste de Performance 1-185,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,323,0,0
+1693522153479,639,Encontrar voos,200,OK,Teste de Performance 1-110,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,621,0,0
+1693522153864,263,Encontrar voos,200,OK,Teste de Performance 1-232,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,243,0,0
+1693522153750,379,Encontrar voos,200,OK,Teste de Performance 1-34,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,357,0,0
+1693522153802,334,Encontrar voos,200,OK,Teste de Performance 1-165,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,314,0,0
+1693522153474,691,Encontrar voos,200,OK,Teste de Performance 1-41,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,671,0,0
+1693522153880,290,Encontrar voos,200,OK,Teste de Performance 1-122,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,269,0,0
+1693522153907,263,Encontrar voos,200,OK,Teste de Performance 1-59,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,244,0,0
+1693522153758,416,Encontrar voos,200,OK,Teste de Performance 1-151,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,395,0,0
+1693522153918,265,Encontrar voos,200,OK,Teste de Performance 1-27,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,244,0,0
+1693522153847,339,Encontrar voos,200,OK,Teste de Performance 1-81,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,320,0,0
+1693522153505,683,Encontrar voos,200,OK,Teste de Performance 1-38,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,663,0,0
+1693522153888,300,Encontrar voos,200,OK,Teste de Performance 1-133,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,284,0,0
+1693522153931,264,Encontrar voos,200,OK,Teste de Performance 1-77,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,243,0,0
+1693522153869,326,Encontrar voos,200,OK,Teste de Performance 1-244,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522153894,311,Encontrar voos,200,OK,Teste de Performance 1-206,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,292,0,0
+1693522153815,416,Encontrar voos,200,OK,Teste de Performance 1-223,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,397,0,0
+1693522153975,258,Encontrar voos,200,OK,Teste de Performance 1-131,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,239,0,0
+1693522153918,317,Encontrar voos,200,OK,Teste de Performance 1-114,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,296,0,0
+1693522153867,370,Encontrar voos,200,OK,Teste de Performance 1-230,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,349,0,0
+1693522153622,621,Encontrar voos,200,OK,Teste de Performance 1-193,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,600,0,0
+1693522153972,281,Encontrar voos,200,OK,Teste de Performance 1-140,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,261,0,0
+1693522153820,443,Encontrar voos,200,OK,Teste de Performance 1-159,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,423,0,0
+1693522154016,261,Encontrar voos,200,OK,Teste de Performance 1-17,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,241,0,0
+1693522153943,346,Encontrar voos,200,OK,Teste de Performance 1-101,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,326,0,0
+1693522153949,345,Encontrar voos,200,OK,Teste de Performance 1-217,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,326,0,0
+1693522153441,861,Encontrar voos,200,OK,Teste de Performance 1-155,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,846,0,0
+1693522153955,361,Encontrar voos,200,OK,Teste de Performance 1-47,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,341,0,0
+1693522153989,329,Encontrar voos,200,OK,Teste de Performance 1-166,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,311,0,0
+1693522154063,261,Encontrar voos,200,OK,Teste de Performance 1-24,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,245,0,0
+1693522153820,511,Encontrar voos,200,OK,Teste de Performance 1-191,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,490,0,0
+1693522153698,636,Encontrar voos,200,OK,Teste de Performance 1-67,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,616,0,0
+1693522154035,304,Encontrar voos,200,OK,Teste de Performance 1-7,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,283,0,0
+1693522153497,842,Encontrar voos,200,OK,Teste de Performance 1-137,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,823,0,0
+1693522154059,283,Encontrar voos,200,OK,Teste de Performance 1-184,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,263,0,0
+1693522153842,503,Encontrar voos,200,OK,Teste de Performance 1-203,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,484,0,0
+1693522153526,831,Encontrar voos,200,OK,Teste de Performance 1-210,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,811,0,0
+1693522154026,333,Encontrar voos,200,OK,Teste de Performance 1-4,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,317,0,0
+1693522153853,513,Encontrar voos,200,OK,Teste de Performance 1-158,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,498,0,0
+1693522154044,328,Encontrar voos,200,OK,Teste de Performance 1-72,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,307,0,0
+1693522154098,276,Encontrar voos,200,OK,Teste de Performance 1-73,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,257,0,0
+1693522154106,270,Encontrar voos,200,OK,Teste de Performance 1-104,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,251,0,0
+1693522154100,280,Encontrar voos,200,OK,Teste de Performance 1-13,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,260,0,0
+1693522153581,805,Encontrar voos,200,OK,Teste de Performance 1-95,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,785,0,0
+1693522154084,302,Encontrar voos,200,OK,Teste de Performance 1-44,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,282,0,0
+1693522154124,265,Encontrar voos,200,OK,Teste de Performance 1-49,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,245,0,0
+1693522154115,289,Encontrar voos,200,OK,Teste de Performance 1-50,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,275,0,0
+1693522154131,278,Encontrar voos,200,OK,Teste de Performance 1-11,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,260,0,0
+1693522154129,283,Encontrar voos,200,OK,Teste de Performance 1-46,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,264,0,0
+1693522153618,799,Encontrar voos,200,OK,Teste de Performance 1-228,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,780,0,0
+1693522153871,562,Encontrar voos,200,OK,Teste de Performance 1-226,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,541,0,0
+1693522154122,317,Encontrar voos,200,OK,Teste de Performance 1-28,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,297,0,0
+1693522153959,480,Encontrar voos,200,OK,Teste de Performance 1-200,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,460,0,0
+1693522154166,275,Encontrar voos,200,OK,Teste de Performance 1-102,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,256,0,0
+1693522153722,721,Encontrar voos,200,OK,Teste de Performance 1-195,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,701,0,0
+1693522153772,680,Encontrar voos,200,OK,Teste de Performance 1-236,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,661,0,0
+1693522153683,769,Encontrar voos,200,OK,Teste de Performance 1-18,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,750,0,0
+1693522153993,469,Encontrar voos,200,OK,Teste de Performance 1-16,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,448,0,0
+1693522154142,324,Encontrar voos,200,OK,Teste de Performance 1-234,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522154176,298,Encontrar voos,200,OK,Teste de Performance 1-112,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,278,0,0
+1693522154207,269,Encontrar voos,200,OK,Teste de Performance 1-111,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,249,0,0
+1693522154221,260,Encontrar voos,200,OK,Teste de Performance 1-87,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,241,0,0
+1693522153662,840,Encontrar voos,200,OK,Teste de Performance 1-83,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,819,0,0
+1693522154221,281,Encontrar voos,200,OK,Teste de Performance 1-248,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,262,0,0
+1693522154212,292,Encontrar voos,200,OK,Teste de Performance 1-192,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,274,0,0
+1693522153991,526,Encontrar voos,200,OK,Teste de Performance 1-154,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,506,0,0
+1693522154215,302,Encontrar voos,200,OK,Teste de Performance 1-162,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,282,0,0
+1693522153529,988,Encontrar voos,200,OK,Teste de Performance 1-78,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,968,0,0
+1693522154249,298,Encontrar voos,200,OK,Teste de Performance 1-143,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,277,0,0
+1693522153689,863,Encontrar voos,200,OK,Teste de Performance 1-75,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,843,0,0
+1693522153785,770,Encontrar voos,200,OK,Teste de Performance 1-123,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,749,0,0
+1693522154269,293,Encontrar voos,200,OK,Teste de Performance 1-180,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,273,0,0
+1693522154182,390,Encontrar voos,200,OK,Teste de Performance 1-57,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,372,0,0
+1693522153541,1033,Encontrar voos,200,OK,Teste de Performance 1-45,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1013,0,0
+1693522154290,290,Encontrar voos,200,OK,Teste de Performance 1-117,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,270,0,0
+1693522154312,268,Encontrar voos,200,OK,Teste de Performance 1-169,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,248,0,0
+1693522153723,866,Encontrar voos,200,OK,Teste de Performance 1-141,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,847,0,0
+1693522154332,273,Encontrar voos,200,OK,Teste de Performance 1-240,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,253,0,0
+1693522154309,299,Encontrar voos,200,OK,Teste de Performance 1-187,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,280,0,0
+1693522154273,341,Encontrar voos,200,OK,Teste de Performance 1-79,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,321,0,0
+1693522154348,272,Encontrar voos,200,OK,Teste de Performance 1-68,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,253,0,0
+1693522154273,351,Encontrar voos,200,OK,Teste de Performance 1-22,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,333,0,0
+1693522154267,359,Encontrar voos,200,OK,Teste de Performance 1-147,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,339,0,0
+1693522154306,322,Encontrar voos,200,OK,Teste de Performance 1-56,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,302,0,0
+1693522154321,313,Encontrar voos,200,OK,Teste de Performance 1-146,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,293,0,0
+1693522154309,335,Encontrar voos,200,OK,Teste de Performance 1-76,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,315,0,0
+1693522153789,887,Encontrar voos,200,OK,Teste de Performance 1-129,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,868,0,0
+1693522153799,879,Encontrar voos,200,OK,Teste de Performance 1-82,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,860,0,0
+1693522154409,275,Encontrar voos,200,OK,Teste de Performance 1-90,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,254,0,0
+1693522153587,1109,Encontrar voos,200,OK,Teste de Performance 1-40,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1091,0,0
+1693522154413,286,Encontrar voos,200,OK,Teste de Performance 1-161,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,267,0,0
+1693522154441,270,Encontrar voos,200,OK,Teste de Performance 1-135,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,251,0,0
+1693522154417,296,Encontrar voos,200,OK,Teste de Performance 1-52,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,277,0,0
+1693522154389,324,Encontrar voos,200,OK,Teste de Performance 1-199,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522154435,280,Encontrar voos,200,OK,Teste de Performance 1-196,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,261,0,0
+1693522154396,327,Encontrar voos,200,OK,Teste de Performance 1-172,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,307,0,0
+1693522153816,915,Encontrar voos,200,OK,Teste de Performance 1-115,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,895,0,0
+1693522153587,1144,Encontrar voos,200,OK,Teste de Performance 1-125,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1124,0,0
+1693522154431,300,Encontrar voos,200,OK,Teste de Performance 1-54,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,280,0,0
+1693522154413,319,Encontrar voos,200,OK,Teste de Performance 1-176,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,300,0,0
+1693522154497,259,Encontrar voos,200,OK,Teste de Performance 1-97,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,240,0,0
+1693522153603,1153,Encontrar voos,200,OK,Teste de Performance 1-208,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1134,0,0
+1693522153815,959,Encontrar voos,200,OK,Teste de Performance 1-113,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,941,0,0
+1693522154494,282,Encontrar voos,200,OK,Teste de Performance 1-181,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,262,0,0
+1693522153806,970,Encontrar voos,200,OK,Teste de Performance 1-171,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,951,0,0
+1693522154500,286,Encontrar voos,200,OK,Teste de Performance 1-197,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,266,0,0
+1693522154529,281,Encontrar voos,200,OK,Teste de Performance 1-3,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,264,0,0
+1693522154512,298,Encontrar voos,200,OK,Teste de Performance 1-178,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,280,0,0
+1693522153828,988,Encontrar voos,200,OK,Teste de Performance 1-238,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,968,0,0
+1693522154518,302,Encontrar voos,200,OK,Teste de Performance 1-144,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,282,0,0
+1693522154547,278,Encontrar voos,200,OK,Teste de Performance 1-25,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,258,0,0
+1693522153714,1127,Encontrar voos,200,OK,Teste de Performance 1-168,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1113,0,0
+1693522153691,1150,Encontrar voos,200,OK,Teste de Performance 1-194,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1134,0,0
+1693522154587,268,Encontrar voos,200,OK,Teste de Performance 1-242,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,247,0,0
+1693522154611,253,Encontrar voos,200,OK,Teste de Performance 1-100,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,234,0,0
+1693522153646,1226,Encontrar voos,200,OK,Teste de Performance 1-246,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1205,0,0
+1693522154602,275,Encontrar voos,200,OK,Teste de Performance 1-42,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,255,0,0
+1693522154621,258,Encontrar voos,200,OK,Teste de Performance 1-186,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,239,0,0
+1693522153822,1078,Encontrar voos,200,OK,Teste de Performance 1-85,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1060,0,0
+1693522154626,281,Encontrar voos,200,OK,Teste de Performance 1-247,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,266,0,0
+1693522154652,258,Encontrar voos,200,OK,Teste de Performance 1-98,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,240,0,0
+1693522153871,1069,Encontrar voos,200,OK,Teste de Performance 1-36,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1050,0,0
+1693522153747,1193,Encontrar voos,200,OK,Teste de Performance 1-138,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1174,0,0
+1693522154652,298,Encontrar voos,200,OK,Teste de Performance 1-39,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,279,0,0
+1693522153758,1209,Encontrar voos,200,OK,Teste de Performance 1-164,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1190,0,0
+1693522153750,1217,Encontrar voos,200,OK,Teste de Performance 1-128,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1198,0,0
+1693522154710,292,Encontrar voos,200,OK,Teste de Performance 1-189,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,273,0,0
+1693522154684,324,Encontrar voos,200,OK,Teste de Performance 1-62,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,305,0,0
+1693522153796,1212,Encontrar voos,200,OK,Teste de Performance 1-6,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1193,0,0
+1693522154710,325,Encontrar voos,200,OK,Teste de Performance 1-212,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,307,0,0
+1693522154758,282,Encontrar voos,200,OK,Teste de Performance 1-214,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,264,0,0
+1693522153669,1380,Encontrar voos,200,OK,Teste de Performance 1-209,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1359,0,0
+1693522154774,276,Encontrar voos,200,OK,Teste de Performance 1-29,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,256,0,0
+1693522153764,1294,Encontrar voos,200,OK,Teste de Performance 1-63,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1274,0,0
+1693522154795,283,Encontrar voos,200,OK,Teste de Performance 1-227,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,263,0,0
+1693522153963,1130,Encontrar voos,200,OK,Teste de Performance 1-179,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1110,0,0
+1693522153874,1244,Encontrar voos,200,OK,Teste de Performance 1-134,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1224,0,0
+1693522154861,266,Encontrar voos,200,OK,Teste de Performance 1-55,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,247,0,0
+1693522153696,1438,Encontrar voos,200,OK,Teste de Performance 1-94,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1422,0,0
+1693522154875,264,Encontrar voos,200,OK,Teste de Performance 1-201,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,244,0,0
+1693522154875,268,Encontrar voos,200,OK,Teste de Performance 1-9,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,249,0,0
+1693522154897,270,Encontrar voos,200,OK,Teste de Performance 1-145,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,251,0,0
+1693522153978,1202,Encontrar voos,200,OK,Teste de Performance 1-157,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1184,0,0
+1693522153873,1323,Encontrar voos,200,OK,Teste de Performance 1-121,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1304,0,0
+1693522153882,1317,Encontrar voos,200,OK,Teste de Performance 1-53,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1298,0,0
+1693522153822,1385,Encontrar voos,200,OK,Teste de Performance 1-237,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1366,0,0
+1693522154983,253,Encontrar voos,200,OK,Teste de Performance 1-119,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,233,0,0
+1693522153808,1442,Encontrar voos,200,OK,Teste de Performance 1-224,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1424,0,0
+1693522154989,269,Encontrar voos,200,OK,Teste de Performance 1-10,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,250,0,0
+1693522153997,1273,Encontrar voos,200,OK,Teste de Performance 1-216,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1254,0,0
+1693522153906,1374,Encontrar voos,200,OK,Teste de Performance 1-30,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1355,0,0
+1693522153910,1377,Encontrar voos,200,OK,Teste de Performance 1-61,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1357,0,0
+1693522153754,1542,Encontrar voos,200,OK,Teste de Performance 1-32,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1523,0,0
+1693522153857,1467,Encontrar voos,200,OK,Teste de Performance 1-99,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1447,0,0
+1693522153812,1534,Encontrar voos,200,OK,Teste de Performance 1-211,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1515,0,0
+1693522154022,1333,Encontrar voos,200,OK,Teste de Performance 1-173,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1313,0,0
+1693522155087,273,Encontrar voos,200,OK,Teste de Performance 1-205,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,253,0,0
+1693522153918,1515,Encontrar voos,200,OK,Teste de Performance 1-198,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1495,0,0
+1693522155180,264,Encontrar voos,200,OK,Teste de Performance 1-70,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,244,0,0
+1693522153957,1523,Encontrar voos,200,OK,Teste de Performance 1-80,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1503,0,0
+1693522153959,1526,Encontrar voos,200,OK,Teste de Performance 1-182,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1507,0,0
+1693522153927,1584,Encontrar voos,200,OK,Teste de Performance 1-239,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1564,0,0
+1693522153995,1548,Encontrar voos,200,OK,Teste de Performance 1-160,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1528,0,0
+1693522153849,1696,Encontrar voos,200,OK,Teste de Performance 1-139,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1677,0,0
+1693522153957,1588,Encontrar voos,200,OK,Teste de Performance 1-149,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1569,0,0
+1693522153981,1632,Encontrar voos,200,OK,Teste de Performance 1-91,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1628,0,0
+1693522154009,1616,Encontrar voos,200,OK,Teste de Performance 1-221,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1600,0,0
+1693522153860,1780,Encontrar voos,200,OK,Teste de Performance 1-130,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1761,0,0
+1693522154015,1715,Encontrar voos,200,OK,Teste de Performance 1-74,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1696,0,0
+1693522154016,1722,Encontrar voos,200,OK,Teste de Performance 1-88,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1707,0,0
+1693522153864,1882,Encontrar voos,200,OK,Teste de Performance 1-116,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1861,0,0
+1693522154113,1677,Encontrar voos,200,OK,Teste de Performance 1-60,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1658,0,0
+1693522154022,1790,Encontrar voos,200,OK,Teste de Performance 1-213,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1770,0,0
+1693522154316,1562,Encontrar voos,200,OK,Teste de Performance 1-222,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1543,0,0
+1693522154344,1534,Encontrar voos,200,OK,Teste de Performance 1-12,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1514,0,0
+1693522154108,1772,Encontrar voos,200,OK,Teste de Performance 1-241,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1753,0,0
+1693522154396,1502,Encontrar voos,200,OK,Teste de Performance 1-37,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1482,0,0
+1693522154141,1836,Encontrar voos,200,OK,Teste de Performance 1-58,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1818,0,0
+1693522154526,1511,Encontrar voos,200,OK,Teste de Performance 1-48,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1492,0,0
+1693522153997,2206,Encontrar voos,200,OK,Teste de Performance 1-126,text,false,"The operation lasted too long: It took 2,206 milliseconds, but should not have lasted longer than 2,000 milliseconds.",7245,193,250,250,https://www.blazedemo.com/reserve.php,2190,0,0
+1693522154493,1846,Encontrar voos,200,OK,Teste de Performance 1-204,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1826,0,0
+1693522154774,1656,Encontrar voos,200,OK,Teste de Performance 1-152,text,true,,7245,193,250,250,https://www.blazedemo.com/reserve.php,1656,0,0
+1693522158670,276,Pagamento,200,OK,Teste de Performance 1-249,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,265,0,0
+1693522158688,270,Pagamento,200,OK,Teste de Performance 1-163,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,258,0,0
+1693522158681,279,Pagamento,200,OK,Teste de Performance 1-84,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,268,0,0
+1693522158670,290,Pagamento,200,OK,Teste de Performance 1-108,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,279,0,0
+1693522158713,264,Pagamento,200,OK,Teste de Performance 1-105,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,252,0,0
+1693522158702,297,Pagamento,200,OK,Teste de Performance 1-1,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,287,0,0
+1693522158702,297,Pagamento,200,OK,Teste de Performance 1-21,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,287,0,0
+1693522158705,349,Pagamento,200,OK,Teste de Performance 1-174,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,337,0,0
+1693522158755,308,Pagamento,200,OK,Teste de Performance 1-8,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,297,0,0
+1693522158800,266,Pagamento,200,OK,Teste de Performance 1-65,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,254,0,0
+1693522158807,266,Pagamento,200,OK,Teste de Performance 1-2,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,252,0,0
+1693522158777,301,Pagamento,200,OK,Teste de Performance 1-103,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,289,0,0
+1693522158831,255,Pagamento,200,OK,Teste de Performance 1-231,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,245,0,0
+1693522158820,281,Pagamento,200,OK,Teste de Performance 1-93,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,269,0,0
+1693522158760,341,Pagamento,200,OK,Teste de Performance 1-71,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,331,0,0
+1693522158833,281,Pagamento,200,OK,Teste de Performance 1-175,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,266,0,0
+1693522158713,403,Pagamento,200,OK,Teste de Performance 1-20,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,391,0,0
+1693522158755,364,Pagamento,200,OK,Teste de Performance 1-31,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,356,0,0
+1693522158802,331,Pagamento,200,OK,Teste de Performance 1-207,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,320,0,0
+1693522158863,274,Pagamento,200,OK,Teste de Performance 1-233,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,262,0,0
+1693522158870,282,Pagamento,200,OK,Teste de Performance 1-92,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,270,0,0
+1693522158742,435,Pagamento,200,OK,Teste de Performance 1-43,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,423,0,0
+1693522158799,378,Pagamento,200,OK,Teste de Performance 1-51,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,362,0,0
+1693522158914,267,Pagamento,200,OK,Teste de Performance 1-229,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,255,0,0
+1693522158923,276,Pagamento,200,OK,Teste de Performance 1-106,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,264,0,0
+1693522158914,292,Pagamento,200,OK,Teste de Performance 1-219,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,281,0,0
+1693522158758,452,Pagamento,200,OK,Teste de Performance 1-127,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,441,0,0
+1693522158955,278,Pagamento,200,OK,Teste de Performance 1-69,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,266,0,0
+1693522158813,428,Pagamento,200,OK,Teste de Performance 1-243,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,416,0,0
+1693522158959,288,Pagamento,200,OK,Teste de Performance 1-107,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,272,0,0
+1693522158959,295,Pagamento,200,OK,Teste de Performance 1-66,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,282,0,0
+1693522158990,282,Pagamento,200,OK,Teste de Performance 1-136,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,267,0,0
+1693522158964,315,Pagamento,200,OK,Teste de Performance 1-215,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,308,0,0
+1693522159010,272,Pagamento,200,OK,Teste de Performance 1-35,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,259,0,0
+1693522158952,332,Pagamento,200,OK,Teste de Performance 1-33,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,320,0,0
+1693522158785,499,Pagamento,200,OK,Teste de Performance 1-188,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,488,0,0
+1693522158950,337,Pagamento,200,OK,Teste de Performance 1-132,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,325,0,0
+1693522158839,465,Pagamento,200,OK,Teste de Performance 1-202,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,453,0,0
+1693522159031,275,Pagamento,200,OK,Teste de Performance 1-190,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,259,0,0
+1693522158980,335,Pagamento,200,OK,Teste de Performance 1-64,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,322,0,0
+1693522158848,495,Pagamento,200,OK,Teste de Performance 1-148,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,484,0,0
+1693522159060,288,Pagamento,200,OK,Teste de Performance 1-153,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,277,0,0
+1693522158861,491,Pagamento,200,OK,Teste de Performance 1-96,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,478,0,0
+1693522158870,482,Pagamento,200,OK,Teste de Performance 1-220,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,471,0,0
+1693522159003,357,Pagamento,200,OK,Teste de Performance 1-218,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,344,0,0
+1693522159041,338,Pagamento,200,OK,Teste de Performance 1-245,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,326,0,0
+1693522158802,578,Pagamento,200,OK,Teste de Performance 1-5,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,567,0,0
+1693522159026,359,Pagamento,200,OK,Teste de Performance 1-120,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,354,0,0
+1693522159090,300,Pagamento,200,OK,Teste de Performance 1-109,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,289,0,0
+1693522158959,461,Pagamento,200,OK,Teste de Performance 1-26,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,449,0,0
+1693522159064,358,Pagamento,200,OK,Teste de Performance 1-156,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,346,0,0
+1693522159171,264,Pagamento,200,OK,Teste de Performance 1-59,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,251,0,0
+1693522158869,567,Pagamento,200,OK,Teste de Performance 1-86,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,555,0,0
+1693522159064,380,Pagamento,200,OK,Teste de Performance 1-235,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,367,0,0
+1693522159183,267,Pagamento,200,OK,Teste de Performance 1-27,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,256,0,0
+1693522159033,436,Pagamento,200,OK,Teste de Performance 1-177,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,424,0,0
+1693522159237,259,Pagamento,200,OK,Teste de Performance 1-230,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,247,0,0
+1693522159243,267,Pagamento,200,OK,Teste de Performance 1-193,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,256,0,0
+1693522159069,448,Pagamento,200,OK,Teste de Performance 1-89,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,432,0,0
+1693522159233,291,Pagamento,200,OK,Teste de Performance 1-131,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,280,0,0
+1693522158976,551,Pagamento,200,OK,Teste de Performance 1-14,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,540,0,0
+1693522158890,639,Pagamento,200,OK,Teste de Performance 1-167,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,630,0,0
+1693522159188,355,Pagamento,200,OK,Teste de Performance 1-133,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,339,0,0
+1693522159195,352,Pagamento,200,OK,Teste de Performance 1-244,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,340,0,0
+1693522159288,259,Pagamento,200,OK,Teste de Performance 1-101,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,247,0,0
+1693522159085,469,Pagamento,200,OK,Teste de Performance 1-142,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,458,0,0
+1693522159277,287,Pagamento,200,OK,Teste de Performance 1-17,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,270,0,0
+1693522159235,346,Pagamento,200,OK,Teste de Performance 1-114,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,335,0,0
+1693522159318,270,Pagamento,200,OK,Teste de Performance 1-166,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,258,0,0
+1693522159331,274,Pagamento,200,OK,Teste de Performance 1-191,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,262,0,0
+1693522159325,292,Pagamento,200,OK,Teste de Performance 1-24,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,280,0,0
+1693522159076,546,Pagamento,200,OK,Teste de Performance 1-15,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,532,0,0
+1693522159358,276,Pagamento,200,OK,Teste de Performance 1-210,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,265,0,0
+1693522159316,323,Pagamento,200,OK,Teste de Performance 1-47,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,312,0,0
+1693522158938,705,Pagamento,200,OK,Teste de Performance 1-118,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,692,0,0
+1693522159108,555,Pagamento,200,OK,Teste de Performance 1-19,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,544,0,0
+1693522159078,588,Pagamento,200,OK,Teste de Performance 1-23,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,576,0,0
+1693522159345,328,Pagamento,200,OK,Teste de Performance 1-203,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,315,0,0
+1693522159410,268,Pagamento,200,OK,Teste de Performance 1-11,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,256,0,0
+1693522159128,557,Pagamento,200,OK,Teste de Performance 1-232,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,545,0,0
+1693522159376,318,Pagamento,200,OK,Teste de Performance 1-104,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,305,0,0
+1693522158996,702,Pagamento,200,OK,Teste de Performance 1-124,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,691,0,0
+1693522159188,522,Pagamento,200,OK,Teste de Performance 1-38,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,510,0,0
+1693522159231,508,Pagamento,200,OK,Teste de Performance 1-223,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,497,0,0
+1693522159433,313,Pagamento,200,OK,Teste de Performance 1-226,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,300,0,0
+1693522159371,381,Pagamento,200,OK,Teste de Performance 1-72,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,368,0,0
+1693522159165,590,Pagamento,200,OK,Teste de Performance 1-41,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,578,0,0
+1693522159517,258,Pagamento,200,OK,Teste de Performance 1-78,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,248,0,0
+1693522159360,417,Pagamento,200,OK,Teste de Performance 1-4,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,405,0,0
+1693522159517,281,Pagamento,200,OK,Teste de Performance 1-154,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,269,0,0
+1693522159110,704,Pagamento,200,OK,Teste de Performance 1-185,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,693,0,0
+1693522159517,311,Pagamento,200,OK,Teste de Performance 1-162,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,298,0,0
+1693522159552,276,Pagamento,200,OK,Teste de Performance 1-75,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,264,0,0
+1693522159502,326,Pagamento,200,OK,Teste de Performance 1-248,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,314,0,0
+1693522159021,825,Pagamento,200,OK,Teste de Performance 1-150,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,813,0,0
+1693522159334,513,Pagamento,200,OK,Teste de Performance 1-67,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,502,0,0
+1693522159001,849,Pagamento,200,OK,Teste de Performance 1-170,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,835,0,0
+1693522158980,887,Pagamento,200,OK,Teste de Performance 1-183,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,875,0,0
+1693522159253,619,Pagamento,200,OK,Teste de Performance 1-140,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,602,0,0
+1693522159295,577,Pagamento,200,OK,Teste de Performance 1-217,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,566,0,0
+1693522159442,431,Pagamento,200,OK,Teste de Performance 1-102,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,419,0,0
+1693522159417,467,Pagamento,200,OK,Teste de Performance 1-228,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,456,0,0
+1693522159563,328,Pagamento,200,OK,Teste de Performance 1-180,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,316,0,0
+1693522159580,314,Pagamento,200,OK,Teste de Performance 1-169,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,303,0,0
+1693522159589,313,Pagamento,200,OK,Teste de Performance 1-141,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,302,0,0
+1693522159645,257,Pagamento,200,OK,Teste de Performance 1-76,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,248,0,0
+1693522159374,538,Pagamento,200,OK,Teste de Performance 1-73,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,523,0,0
+1693522159387,532,Pagamento,200,OK,Teste de Performance 1-95,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,520,0,0
+1693522159677,253,Pagamento,200,OK,Teste de Performance 1-129,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,242,0,0
+1693522159440,500,Pagamento,200,OK,Teste de Performance 1-28,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,488,0,0
+1693522159052,890,Pagamento,200,OK,Teste de Performance 1-250,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,876,0,0
+1693522159627,317,Pagamento,200,OK,Teste de Performance 1-147,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,301,0,0
+1693522159263,690,Pagamento,200,OK,Teste de Performance 1-159,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,677,0,0
+1693522159699,261,Pagamento,200,OK,Teste de Performance 1-161,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,248,0,0
+1693522159684,277,Pagamento,200,OK,Teste de Performance 1-90,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,266,0,0
+1693522159452,515,Pagamento,200,OK,Teste de Performance 1-236,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,504,0,0
+1693522159715,254,Pagamento,200,OK,Teste de Performance 1-196,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,242,0,0
+1693522159696,281,Pagamento,200,OK,Teste de Performance 1-40,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,269,0,0
+1693522159732,262,Pagamento,200,OK,Teste de Performance 1-176,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,250,0,0
+1693522159206,800,Pagamento,200,OK,Teste de Performance 1-206,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,788,0,0
+1693522159504,507,Pagamento,200,OK,Teste de Performance 1-192,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,494,0,0
+1693522159774,258,Pagamento,200,OK,Teste de Performance 1-113,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,242,0,0
+1693522159171,875,Pagamento,200,OK,Teste de Performance 1-122,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,863,0,0
+1693522159502,550,Pagamento,200,OK,Teste de Performance 1-83,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,538,0,0
+1693522159621,436,Pagamento,200,OK,Teste de Performance 1-68,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,425,0,0
+1693522159810,247,Pagamento,200,OK,Teste de Performance 1-178,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,236,0,0
+1693522159548,529,Pagamento,200,OK,Teste de Performance 1-143,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,517,0,0
+1693522159756,330,Pagamento,200,OK,Teste de Performance 1-97,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,318,0,0
+1693522159821,267,Pagamento,200,OK,Teste de Performance 1-144,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,255,0,0
+1693522159786,312,Pagamento,200,OK,Teste de Performance 1-197,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,300,0,0
+1693522159855,261,Pagamento,200,OK,Teste de Performance 1-242,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,247,0,0
+1693522159044,1082,Pagamento,200,OK,Teste de Performance 1-225,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1070,0,0
+1693522159776,366,Pagamento,200,OK,Teste de Performance 1-181,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,355,0,0
+1693522159625,521,Pagamento,200,OK,Teste de Performance 1-22,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,508,0,0
+1693522159900,266,Pagamento,200,OK,Teste de Performance 1-85,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,254,0,0
+1693522159817,381,Pagamento,200,OK,Teste de Performance 1-238,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,370,0,0
+1693522159731,472,Pagamento,200,OK,Teste de Performance 1-115,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,461,0,0
+1693522159130,1087,Pagamento,200,OK,Teste de Performance 1-34,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1075,0,0
+1693522159303,920,Pagamento,200,OK,Teste de Performance 1-155,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,908,0,0
+1693522159968,268,Pagamento,200,OK,Teste de Performance 1-128,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,257,0,0
+1693522159118,1123,Pagamento,200,OK,Teste de Performance 1-110,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1107,0,0
+1693522159175,1076,Pagamento,200,OK,Teste de Performance 1-151,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1066,0,0
+1693522160008,247,Pagamento,200,OK,Teste de Performance 1-62,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,236,0,0
+1693522159678,581,Pagamento,200,OK,Teste de Performance 1-82,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,570,0,0
+1693522159381,882,Pagamento,200,OK,Teste de Performance 1-13,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,870,0,0
+1693522160008,255,Pagamento,200,OK,Teste de Performance 1-6,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,243,0,0
+1693522159713,552,Pagamento,200,OK,Teste de Performance 1-52,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,540,0,0
+1693522159387,885,Pagamento,200,OK,Teste de Performance 1-44,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,872,0,0
+1693522160002,273,Pagamento,200,OK,Teste de Performance 1-189,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,261,0,0
+1693522159872,403,Pagamento,200,OK,Teste de Performance 1-246,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,391,0,0
+1693522159950,344,Pagamento,200,OK,Teste de Performance 1-39,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,327,0,0
+1693522160051,255,Pagamento,200,OK,Teste de Performance 1-29,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,243,0,0
+1693522160041,273,Pagamento,200,OK,Teste de Performance 1-214,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,260,0,0
+1693522159137,1187,Pagamento,200,OK,Teste de Performance 1-165,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1177,0,0
+1693522160049,287,Pagamento,200,OK,Teste de Performance 1-209,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,275,0,0
+1693522160059,316,Pagamento,200,OK,Teste de Performance 1-63,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,306,0,0
+1693522160128,257,Pagamento,200,OK,Teste de Performance 1-55,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,246,0,0
+1693522159340,1045,Pagamento,200,OK,Teste de Performance 1-7,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1034,0,0
+1693522160119,276,Pagamento,200,OK,Teste de Performance 1-134,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,263,0,0
+1693522160134,263,Pagamento,200,OK,Teste de Performance 1-94,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,251,0,0
+1693522160138,267,Pagamento,200,OK,Teste de Performance 1-201,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,255,0,0
+1693522159842,626,Pagamento,200,OK,Teste de Performance 1-168,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,614,0,0
+1693522159366,1114,Pagamento,200,OK,Teste de Performance 1-158,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1102,0,0
+1693522160208,297,Pagamento,200,OK,Teste de Performance 1-237,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,285,0,0
+1693522159186,1328,Pagamento,200,OK,Teste de Performance 1-81,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1315,0,0
+1693522160251,264,Pagamento,200,OK,Teste de Performance 1-224,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,252,0,0
+1693522160236,324,Pagamento,200,OK,Teste de Performance 1-119,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,312,0,0
+1693522160281,279,Pagamento,200,OK,Teste de Performance 1-30,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,267,0,0
+1693522160035,541,Pagamento,200,OK,Teste de Performance 1-212,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,525,0,0
+1693522159390,1193,Pagamento,200,OK,Teste de Performance 1-49,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1182,0,0
+1693522159412,1180,Pagamento,200,OK,Teste de Performance 1-46,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1164,0,0
+1693522159195,1408,Pagamento,200,OK,Teste de Performance 1-77,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1397,0,0
+1693522160346,272,Pagamento,200,OK,Teste de Performance 1-211,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,261,0,0
+1693522160355,265,Pagamento,200,OK,Teste de Performance 1-173,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,253,0,0
+1693522160287,335,Pagamento,200,OK,Teste de Performance 1-61,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,320,0,0
+1693522159405,1249,Pagamento,200,OK,Teste de Performance 1-50,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1237,0,0
+1693522159440,1237,Pagamento,200,OK,Teste de Performance 1-200,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1225,0,0
+1693522160258,435,Pagamento,200,OK,Teste de Performance 1-10,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,419,0,0
+1693522160445,259,Pagamento,200,OK,Teste de Performance 1-70,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,248,0,0
+1693522160196,508,Pagamento,200,OK,Teste de Performance 1-121,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,491,0,0
+1693522159466,1253,Pagamento,200,OK,Teste de Performance 1-234,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1241,0,0
+1693522160432,291,Pagamento,200,OK,Teste de Performance 1-198,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,279,0,0
+1693522159444,1281,Pagamento,200,OK,Teste de Performance 1-195,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1269,0,0
+1693522159628,1116,Pagamento,200,OK,Teste de Performance 1-56,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1104,0,0
+1693522159462,1282,Pagamento,200,OK,Teste de Performance 1-16,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1270,0,0
+1693522160480,271,Pagamento,200,OK,Teste de Performance 1-80,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,257,0,0
+1693522159340,1458,Pagamento,200,OK,Teste de Performance 1-137,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1446,0,0
+1693522160544,262,Pagamento,200,OK,Teste de Performance 1-160,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,252,0,0
+1693522160485,323,Pagamento,200,OK,Teste de Performance 1-182,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,311,0,0
+1693522160546,267,Pagamento,200,OK,Teste de Performance 1-149,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,257,0,0
+1693522159452,1363,Pagamento,200,OK,Teste de Performance 1-18,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1352,0,0
+1693522160546,273,Pagamento,200,OK,Teste de Performance 1-139,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,262,0,0
+1693522159482,1339,Pagamento,200,OK,Teste de Performance 1-87,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1329,0,0
+1693522159572,1291,Pagamento,200,OK,Teste de Performance 1-57,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1279,0,0
+1693522160613,267,Pagamento,200,OK,Teste de Performance 1-91,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,264,0,0
+1693522159343,1546,Pagamento,200,OK,Teste de Performance 1-184,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1534,0,0
+1693522159711,1192,Pagamento,200,OK,Teste de Performance 1-135,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1180,0,0
+1693522159476,1432,Pagamento,200,OK,Teste de Performance 1-111,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1419,0,0
+1693522160625,289,Pagamento,200,OK,Teste de Performance 1-221,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,278,0,0
+1693522160640,277,Pagamento,200,OK,Teste de Performance 1-130,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,264,0,0
+1693522159574,1353,Pagamento,200,OK,Teste de Performance 1-45,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1340,0,0
+1693522160738,257,Pagamento,200,OK,Teste de Performance 1-88,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,245,0,0
+1693522160730,265,Pagamento,200,OK,Teste de Performance 1-74,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,253,0,0
+1693522159580,1421,Pagamento,200,OK,Teste de Performance 1-117,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1409,0,0
+1693522160747,272,Pagamento,200,OK,Teste de Performance 1-116,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,260,0,0
+1693522159810,1243,Pagamento,200,OK,Teste de Performance 1-3,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1231,0,0
+1693522160791,273,Pagamento,200,OK,Teste de Performance 1-60,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,259,0,0
+1693522159731,1345,Pagamento,200,OK,Teste de Performance 1-125,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1333,0,0
+1693522159606,1486,Pagamento,200,OK,Teste de Performance 1-240,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1476,0,0
+1693522159756,1336,Pagamento,200,OK,Teste de Performance 1-208,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1324,0,0
+1693522160880,267,Pagamento,200,OK,Teste de Performance 1-241,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,260,0,0
+1693522159842,1312,Pagamento,200,OK,Teste de Performance 1-194,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1298,0,0
+1693522160878,276,Pagamento,200,OK,Teste de Performance 1-12,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,264,0,0
+1693522160879,281,Pagamento,200,OK,Teste de Performance 1-222,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,268,0,0
+1693522159474,1693,Pagamento,200,OK,Teste de Performance 1-112,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1682,0,0
+1693522160899,268,Pagamento,200,OK,Teste de Performance 1-37,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,257,0,0
+1693522159776,1397,Pagamento,200,OK,Teste de Performance 1-171,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1384,0,0
+1693522160978,266,Pagamento,200,OK,Teste de Performance 1-58,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,254,0,0
+1693522159879,1383,Pagamento,200,OK,Teste de Performance 1-186,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1370,0,0
+1693522159723,1557,Pagamento,200,OK,Teste de Performance 1-172,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1546,0,0
+1693522159826,1460,Pagamento,200,OK,Teste de Performance 1-25,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1448,0,0
+1693522159608,1694,Pagamento,200,OK,Teste de Performance 1-187,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1678,0,0
+1693522159556,1746,Pagamento,200,OK,Teste de Performance 1-123,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1734,0,0
+1693522159732,1574,Pagamento,200,OK,Teste de Performance 1-54,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1562,0,0
+1693522161037,293,Pagamento,200,OK,Teste de Performance 1-48,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,282,0,0
+1693522160078,1265,Pagamento,200,OK,Teste de Performance 1-227,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1252,0,0
+1693522159614,1776,Pagamento,200,OK,Teste de Performance 1-79,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1764,0,0
+1693522159634,1761,Pagamento,200,OK,Teste de Performance 1-146,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1750,0,0
+1693522160143,1321,Pagamento,200,OK,Teste de Performance 1-9,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1310,0,0
+1693522159864,1602,Pagamento,200,OK,Teste de Performance 1-100,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1591,0,0
+1693522160180,1314,Pagamento,200,OK,Teste de Performance 1-157,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1303,0,0
+1693522161204,300,Pagamento,200,OK,Teste de Performance 1-126,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,288,0,0
+1693522159713,1802,Pagamento,200,OK,Teste de Performance 1-199,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1791,0,0
+1693522159940,1640,Pagamento,200,OK,Teste de Performance 1-36,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1628,0,0
+1693522160324,1289,Pagamento,200,OK,Teste de Performance 1-99,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1273,0,0
+1693522159877,1795,Pagamento,200,OK,Teste de Performance 1-42,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1794,0,0
+1693522161339,333,Pagamento,200,OK,Teste de Performance 1-204,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,332,0,0
+1693522159908,1769,Pagamento,200,OK,Teste de Performance 1-247,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1764,0,0
+1693522159911,1855,Pagamento,200,OK,Teste de Performance 1-98,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1844,0,0
+1693522159940,1835,Pagamento,200,OK,Teste de Performance 1-138,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1824,0,0
+1693522159968,1827,Pagamento,200,OK,Teste de Performance 1-164,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1815,0,0
+1693522160167,1730,Pagamento,200,OK,Teste de Performance 1-145,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1725,0,0
+1693522160093,1811,Pagamento,200,OK,Teste de Performance 1-179,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1799,0,0
+1693522160297,1654,Pagamento,200,OK,Teste de Performance 1-32,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1639,0,0
+1693522160199,1757,Pagamento,200,OK,Teste de Performance 1-53,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1746,0,0
+1693522160360,1618,Pagamento,200,OK,Teste de Performance 1-205,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1607,0,0
+1693522160271,1738,Pagamento,200,OK,Teste de Performance 1-216,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1726,0,0
+1693522160511,1602,Pagamento,200,OK,Teste de Performance 1-239,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1558,0,0
+1693522160813,1506,Pagamento,200,OK,Teste de Performance 1-213,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1494,0,0
+1693522161430,1181,Pagamento,200,OK,Teste de Performance 1-152,text,true,,6719,194,250,250,https://www.blazedemo.com/purchase.php,1169,0,0
+1693522163947,264,Confirmação de Pagamento,200,OK,Teste de Performance 1-249,text,true,,5780,198,250,250,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522163958,260,Confirmação de Pagamento,200,OK,Teste de Performance 1-163,text,true,,5780,198,249,249,https://www.blazedemo.com/confirmation.php,248,0,0
+1693522163960,285,Confirmação de Pagamento,200,OK,Teste de Performance 1-84,text,true,,5780,198,248,248,https://www.blazedemo.com/confirmation.php,273,0,0
+1693522163960,304,Confirmação de Pagamento,200,OK,Teste de Performance 1-108,text,true,,5780,198,247,247,https://www.blazedemo.com/confirmation.php,291,0,0
+1693522164066,269,Confirmação de Pagamento,200,OK,Teste de Performance 1-65,text,true,,5780,198,246,246,https://www.blazedemo.com/confirmation.php,258,0,0
+1693522164000,337,Confirmação de Pagamento,200,OK,Teste de Performance 1-21,text,true,,5780,198,245,245,https://www.blazedemo.com/confirmation.php,326,0,0
+1693522164078,266,Confirmação de Pagamento,200,OK,Teste de Performance 1-103,text,true,,5780,198,244,244,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522164087,263,Confirmação de Pagamento,200,OK,Teste de Performance 1-231,text,true,,5780,198,243,243,https://www.blazedemo.com/confirmation.php,251,0,0
+1693522164114,289,Confirmação de Pagamento,200,OK,Teste de Performance 1-175,text,true,,5780,198,242,242,https://www.blazedemo.com/confirmation.php,278,0,0
+1693522164120,283,Confirmação de Pagamento,200,OK,Teste de Performance 1-31,text,true,,5780,198,242,242,https://www.blazedemo.com/confirmation.php,272,0,0
+1693522164000,416,Confirmação de Pagamento,200,OK,Teste de Performance 1-1,text,true,,5780,198,240,240,https://www.blazedemo.com/confirmation.php,403,0,0
+1693522163978,449,Confirmação de Pagamento,200,OK,Teste de Performance 1-105,text,true,,5780,198,239,239,https://www.blazedemo.com/confirmation.php,438,0,0
+1693522164055,372,Confirmação de Pagamento,200,OK,Teste de Performance 1-174,text,true,,5780,198,239,239,https://www.blazedemo.com/confirmation.php,361,0,0
+1693522164102,341,Confirmação de Pagamento,200,OK,Teste de Performance 1-71,text,true,,5780,198,237,237,https://www.blazedemo.com/confirmation.php,330,0,0
+1693522164177,271,Confirmação de Pagamento,200,OK,Teste de Performance 1-43,text,true,,5780,198,236,236,https://www.blazedemo.com/confirmation.php,260,0,0
+1693522164102,347,Confirmação de Pagamento,200,OK,Teste de Performance 1-93,text,true,,5780,198,235,235,https://www.blazedemo.com/confirmation.php,335,0,0
+1693522164199,258,Confirmação de Pagamento,200,OK,Teste de Performance 1-106,text,true,,5780,198,234,234,https://www.blazedemo.com/confirmation.php,249,0,0
+1693522164206,261,Confirmação de Pagamento,200,OK,Teste de Performance 1-219,text,true,,5780,198,233,233,https://www.blazedemo.com/confirmation.php,249,0,0
+1693522164063,449,Confirmação de Pagamento,200,OK,Teste de Performance 1-8,text,true,,5780,198,232,232,https://www.blazedemo.com/confirmation.php,438,0,0
+1693522164241,280,Confirmação de Pagamento,200,OK,Teste de Performance 1-243,text,true,,5780,198,231,231,https://www.blazedemo.com/confirmation.php,269,0,0
+1693522164073,452,Confirmação de Pagamento,200,OK,Teste de Performance 1-2,text,true,,5780,198,230,230,https://www.blazedemo.com/confirmation.php,441,0,0
+1693522164247,307,Confirmação de Pagamento,200,OK,Teste de Performance 1-107,text,true,,5780,198,229,229,https://www.blazedemo.com/confirmation.php,296,0,0
+1693522164272,296,Confirmação de Pagamento,200,OK,Teste de Performance 1-136,text,true,,5780,198,228,228,https://www.blazedemo.com/confirmation.php,284,0,0
+1693522164233,337,Confirmação de Pagamento,200,OK,Teste de Performance 1-69,text,true,,5780,198,227,227,https://www.blazedemo.com/confirmation.php,326,0,0
+1693522164285,297,Confirmação de Pagamento,200,OK,Teste de Performance 1-33,text,true,,5780,198,226,226,https://www.blazedemo.com/confirmation.php,285,0,0
+1693522164307,285,Confirmação de Pagamento,200,OK,Teste de Performance 1-190,text,true,,5780,198,225,225,https://www.blazedemo.com/confirmation.php,272,0,0
+1693522164134,484,Confirmação de Pagamento,200,OK,Teste de Performance 1-207,text,true,,5780,198,224,224,https://www.blazedemo.com/confirmation.php,473,0,0
+1693522164117,503,Confirmação de Pagamento,200,OK,Teste de Performance 1-20,text,true,,5780,198,223,223,https://www.blazedemo.com/confirmation.php,492,0,0
+1693522164360,270,Confirmação de Pagamento,200,OK,Teste de Performance 1-218,text,true,,5780,198,222,222,https://www.blazedemo.com/confirmation.php,258,0,0
+1693522164349,300,Confirmação de Pagamento,200,OK,Teste de Performance 1-153,text,true,,5780,198,221,221,https://www.blazedemo.com/confirmation.php,290,0,0
+1693522164305,349,Confirmação de Pagamento,200,OK,Teste de Performance 1-202,text,true,,5780,198,220,220,https://www.blazedemo.com/confirmation.php,338,0,0
+1693522164390,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-109,text,true,,5780,198,219,219,https://www.blazedemo.com/confirmation.php,256,0,0
+1693522164137,529,Confirmação de Pagamento,200,OK,Teste de Performance 1-233,text,true,,5780,198,218,218,https://www.blazedemo.com/confirmation.php,518,0,0
+1693522164381,285,Confirmação de Pagamento,200,OK,Teste de Performance 1-5,text,true,,5780,198,218,218,https://www.blazedemo.com/confirmation.php,272,0,0
+1693522164279,401,Confirmação de Pagamento,200,OK,Teste de Performance 1-215,text,true,,5780,198,216,216,https://www.blazedemo.com/confirmation.php,396,0,0
+1693522164420,264,Confirmação de Pagamento,200,OK,Teste de Performance 1-26,text,true,,5780,198,215,215,https://www.blazedemo.com/confirmation.php,252,0,0
+1693522164352,332,Confirmação de Pagamento,200,OK,Teste de Performance 1-220,text,true,,5780,198,215,215,https://www.blazedemo.com/confirmation.php,321,0,0
+1693522164386,300,Confirmação de Pagamento,200,OK,Teste de Performance 1-120,text,true,,5780,198,213,213,https://www.blazedemo.com/confirmation.php,294,0,0
+1693522164437,271,Confirmação de Pagamento,200,OK,Teste de Performance 1-86,text,true,,5780,198,212,212,https://www.blazedemo.com/confirmation.php,261,0,0
+1693522164177,536,Confirmação de Pagamento,200,OK,Teste de Performance 1-51,text,true,,5780,198,211,211,https://www.blazedemo.com/confirmation.php,524,0,0
+1693522164469,275,Confirmação de Pagamento,200,OK,Teste de Performance 1-177,text,true,,5780,198,210,210,https://www.blazedemo.com/confirmation.php,262,0,0
+1693522164380,369,Confirmação de Pagamento,200,OK,Teste de Performance 1-245,text,true,,5780,198,209,209,https://www.blazedemo.com/confirmation.php,358,0,0
+1693522164529,250,Confirmação de Pagamento,200,OK,Teste de Performance 1-167,text,true,,5780,198,208,208,https://www.blazedemo.com/confirmation.php,239,0,0
+1693522164527,258,Confirmação de Pagamento,200,OK,Teste de Performance 1-14,text,true,,5780,198,207,207,https://www.blazedemo.com/confirmation.php,246,0,0
+1693522164525,266,Confirmação de Pagamento,200,OK,Teste de Performance 1-131,text,true,,5780,198,206,206,https://www.blazedemo.com/confirmation.php,254,0,0
+1693522164543,262,Confirmação de Pagamento,200,OK,Teste de Performance 1-133,text,true,,5780,198,205,205,https://www.blazedemo.com/confirmation.php,251,0,0
+1693522164211,595,Confirmação de Pagamento,200,OK,Teste de Performance 1-127,text,true,,5780,198,205,205,https://www.blazedemo.com/confirmation.php,583,0,0
+1693522164547,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-101,text,true,,5780,198,203,203,https://www.blazedemo.com/confirmation.php,256,0,0
+1693522164581,277,Confirmação de Pagamento,200,OK,Teste de Performance 1-114,text,true,,5780,198,202,202,https://www.blazedemo.com/confirmation.php,266,0,0
+1693522164554,315,Confirmação de Pagamento,200,OK,Teste de Performance 1-142,text,true,,5780,198,201,201,https://www.blazedemo.com/confirmation.php,304,0,0
+1693522164605,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-191,text,true,,5780,198,200,200,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522164153,730,Confirmação de Pagamento,200,OK,Teste de Performance 1-92,text,true,,5780,198,199,199,https://www.blazedemo.com/confirmation.php,719,0,0
+1693522164518,368,Confirmação de Pagamento,200,OK,Teste de Performance 1-89,text,true,,5780,198,198,198,https://www.blazedemo.com/confirmation.php,357,0,0
+1693522164316,570,Confirmação de Pagamento,200,OK,Teste de Performance 1-64,text,true,,5780,198,198,198,https://www.blazedemo.com/confirmation.php,559,0,0
+1693522164618,271,Confirmação de Pagamento,200,OK,Teste de Performance 1-24,text,true,,5780,198,196,196,https://www.blazedemo.com/confirmation.php,259,0,0
+1693522164285,615,Confirmação de Pagamento,200,OK,Teste de Performance 1-188,text,true,,5780,198,195,195,https://www.blazedemo.com/confirmation.php,604,0,0
+1693522164588,314,Confirmação de Pagamento,200,OK,Teste de Performance 1-166,text,true,,5784,198,194,194,https://www.blazedemo.com/confirmation.php,303,0,0
+1693522164640,270,Confirmação de Pagamento,200,OK,Teste de Performance 1-47,text,true,,5780,198,193,193,https://www.blazedemo.com/confirmation.php,257,0,0
+1693522164634,282,Confirmação de Pagamento,200,OK,Teste de Performance 1-210,text,true,,5780,198,192,192,https://www.blazedemo.com/confirmation.php,270,0,0
+1693522164547,390,Confirmação de Pagamento,200,OK,Teste de Performance 1-244,text,true,,5780,198,191,191,https://www.blazedemo.com/confirmation.php,378,0,0
+1693522164666,295,Confirmação de Pagamento,200,OK,Teste de Performance 1-23,text,true,,5780,198,190,190,https://www.blazedemo.com/confirmation.php,285,0,0
+1693522164685,282,Confirmação de Pagamento,200,OK,Teste de Performance 1-232,text,true,,5780,198,189,189,https://www.blazedemo.com/confirmation.php,270,0,0
+1693522164181,801,Confirmação de Pagamento,200,OK,Teste de Performance 1-229,text,true,,5780,198,188,188,https://www.blazedemo.com/confirmation.php,788,0,0
+1693522164289,702,Confirmação de Pagamento,200,OK,Teste de Performance 1-132,text,true,,5780,198,187,187,https://www.blazedemo.com/confirmation.php,690,0,0
+1693522164673,326,Confirmação de Pagamento,200,OK,Teste de Performance 1-203,text,true,,5780,198,186,186,https://www.blazedemo.com/confirmation.php,316,0,0
+1693522164698,306,Confirmação de Pagamento,200,OK,Teste de Performance 1-124,text,true,,5780,198,185,185,https://www.blazedemo.com/confirmation.php,295,0,0
+1693522164710,308,Confirmação de Pagamento,200,OK,Teste de Performance 1-38,text,true,,5780,198,184,184,https://www.blazedemo.com/confirmation.php,296,0,0
+1693522164679,342,Confirmação de Pagamento,200,OK,Teste de Performance 1-11,text,true,,5780,198,183,183,https://www.blazedemo.com/confirmation.php,329,0,0
+1693522164746,283,Confirmação de Pagamento,200,OK,Teste de Performance 1-226,text,true,,5780,198,182,182,https://www.blazedemo.com/confirmation.php,272,0,0
+1693522164756,283,Confirmação de Pagamento,200,OK,Teste de Performance 1-41,text,true,,5780,198,181,181,https://www.blazedemo.com/confirmation.php,271,0,0
+1693522164753,315,Confirmação de Pagamento,200,OK,Teste de Performance 1-72,text,true,,5780,198,180,180,https://www.blazedemo.com/confirmation.php,302,0,0
+1693522164775,293,Confirmação de Pagamento,200,OK,Teste de Performance 1-78,text,true,,5780,198,180,180,https://www.blazedemo.com/confirmation.php,282,0,0
+1693522164828,264,Confirmação de Pagamento,200,OK,Teste de Performance 1-248,text,true,,5780,198,178,178,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522164777,330,Confirmação de Pagamento,200,OK,Teste de Performance 1-4,text,true,,5780,198,177,177,https://www.blazedemo.com/confirmation.php,318,0,0
+1693522164846,275,Confirmação de Pagamento,200,OK,Teste de Performance 1-150,text,true,,5780,198,176,176,https://www.blazedemo.com/confirmation.php,263,0,0
+1693522164450,676,Confirmação de Pagamento,200,OK,Teste de Performance 1-27,text,true,,5780,198,175,175,https://www.blazedemo.com/confirmation.php,664,0,0
+1693522164847,300,Confirmação de Pagamento,200,OK,Teste de Performance 1-67,text,true,,5780,198,174,174,https://www.blazedemo.com/confirmation.php,292,0,0
+1693522164828,321,Confirmação de Pagamento,200,OK,Teste de Performance 1-75,text,true,,5780,198,173,173,https://www.blazedemo.com/confirmation.php,311,0,0
+1693522164283,877,Confirmação de Pagamento,200,OK,Teste de Performance 1-35,text,true,,5780,198,172,172,https://www.blazedemo.com/confirmation.php,866,0,0
+1693522164352,808,Confirmação de Pagamento,200,OK,Teste de Performance 1-96,text,true,,5780,198,172,172,https://www.blazedemo.com/confirmation.php,795,0,0
+1693522164919,265,Confirmação de Pagamento,200,OK,Teste de Performance 1-95,text,true,,5780,198,170,170,https://www.blazedemo.com/confirmation.php,254,0,0
+1693522164850,334,Confirmação de Pagamento,200,OK,Teste de Performance 1-170,text,true,,5780,198,170,170,https://www.blazedemo.com/confirmation.php,323,0,0
+1693522164931,262,Confirmação de Pagamento,200,OK,Teste de Performance 1-129,text,true,,5780,198,168,168,https://www.blazedemo.com/confirmation.php,250,0,0
+1693522164894,317,Confirmação de Pagamento,200,OK,Teste de Performance 1-169,text,true,,5780,198,167,167,https://www.blazedemo.com/confirmation.php,306,0,0
+1693522164254,959,Confirmação de Pagamento,200,OK,Teste de Performance 1-66,text,true,,5780,198,166,166,https://www.blazedemo.com/confirmation.php,948,0,0
+1693522164952,268,Confirmação de Pagamento,200,OK,Teste de Performance 1-159,text,true,,5780,198,165,165,https://www.blazedemo.com/confirmation.php,257,0,0
+1693522164695,535,Confirmação de Pagamento,200,OK,Teste de Performance 1-104,text,true,,5780,198,164,164,https://www.blazedemo.com/confirmation.php,523,0,0
+1693522164960,272,Confirmação de Pagamento,200,OK,Teste de Performance 1-161,text,true,,5780,198,163,163,https://www.blazedemo.com/confirmation.php,262,0,0
+1693522164961,280,Confirmação de Pagamento,200,OK,Teste de Performance 1-90,text,true,,5780,198,162,162,https://www.blazedemo.com/confirmation.php,269,0,0
+1693522164944,303,Confirmação de Pagamento,200,OK,Teste de Performance 1-147,text,true,,5780,198,161,161,https://www.blazedemo.com/confirmation.php,290,0,0
+1693522164343,911,Confirmação de Pagamento,200,OK,Teste de Performance 1-148,text,true,,5780,198,160,160,https://www.blazedemo.com/confirmation.php,900,0,0
+1693522164422,833,Confirmação de Pagamento,200,OK,Teste de Performance 1-156,text,true,,5780,198,159,159,https://www.blazedemo.com/confirmation.php,821,0,0
+1693522165006,255,Confirmação de Pagamento,200,OK,Teste de Performance 1-206,text,true,,5780,198,158,158,https://www.blazedemo.com/confirmation.php,244,0,0
+1693522164977,286,Confirmação de Pagamento,200,OK,Teste de Performance 1-40,text,true,,5780,198,157,157,https://www.blazedemo.com/confirmation.php,275,0,0
+1693522164967,296,Confirmação de Pagamento,200,OK,Teste de Performance 1-236,text,true,,5780,198,157,157,https://www.blazedemo.com/confirmation.php,285,0,0
+1693522164435,830,Confirmação de Pagamento,200,OK,Teste de Performance 1-59,text,true,,5780,198,155,155,https://www.blazedemo.com/confirmation.php,819,0,0
+1693522165011,262,Confirmação de Pagamento,200,OK,Teste de Performance 1-192,text,true,,5780,198,154,154,https://www.blazedemo.com/confirmation.php,250,0,0
+1693522165033,269,Confirmação de Pagamento,200,OK,Teste de Performance 1-113,text,true,,5780,198,153,153,https://www.blazedemo.com/confirmation.php,257,0,0
+1693522164496,807,Confirmação de Pagamento,200,OK,Teste de Performance 1-230,text,true,,5780,198,152,152,https://www.blazedemo.com/confirmation.php,796,0,0
+1693522165077,277,Confirmação de Pagamento,200,OK,Teste de Performance 1-143,text,true,,5780,198,151,151,https://www.blazedemo.com/confirmation.php,265,0,0
+1693522165086,268,Confirmação de Pagamento,200,OK,Teste de Performance 1-97,text,true,,5780,198,151,151,https://www.blazedemo.com/confirmation.php,257,0,0
+1693522164940,420,Confirmação de Pagamento,200,OK,Teste de Performance 1-28,text,true,,5780,198,149,149,https://www.blazedemo.com/confirmation.php,408,0,0
+1693522164511,852,Confirmação de Pagamento,200,OK,Teste de Performance 1-193,text,true,,5780,198,148,148,https://www.blazedemo.com/confirmation.php,841,0,0
+1693522165089,277,Confirmação de Pagamento,200,OK,Teste de Performance 1-144,text,true,,5780,198,147,147,https://www.blazedemo.com/confirmation.php,265,0,0
+1693522164623,745,Confirmação de Pagamento,200,OK,Teste de Performance 1-15,text,true,,5780,198,146,146,https://www.blazedemo.com/confirmation.php,733,0,0
+1693522164814,565,Confirmação de Pagamento,200,OK,Teste de Performance 1-185,text,true,,5780,198,145,145,https://www.blazedemo.com/confirmation.php,554,0,0
+1693522165117,264,Confirmação de Pagamento,200,OK,Teste de Performance 1-242,text,true,,5780,198,144,144,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522164564,840,Confirmação de Pagamento,200,OK,Teste de Performance 1-17,text,true,,5780,198,143,143,https://www.blazedemo.com/confirmation.php,827,0,0
+1693522165143,276,Confirmação de Pagamento,200,OK,Teste de Performance 1-181,text,true,,5780,198,142,142,https://www.blazedemo.com/confirmation.php,262,0,0
+1693522165047,381,Confirmação de Pagamento,200,OK,Teste de Performance 1-122,text,true,,5780,198,141,141,https://www.blazedemo.com/confirmation.php,370,0,0
+1693522165147,289,Confirmação de Pagamento,200,OK,Teste de Performance 1-22,text,true,,5780,198,140,140,https://www.blazedemo.com/confirmation.php,277,0,0
+1693522165166,275,Confirmação de Pagamento,200,OK,Teste de Performance 1-85,text,true,,5780,198,139,139,https://www.blazedemo.com/confirmation.php,264,0,0
+1693522165126,333,Confirmação de Pagamento,200,OK,Teste de Performance 1-225,text,true,,5780,198,138,138,https://www.blazedemo.com/confirmation.php,322,0,0
+1693522165203,258,Confirmação de Pagamento,200,OK,Teste de Performance 1-115,text,true,,5780,198,137,137,https://www.blazedemo.com/confirmation.php,245,0,0
+1693522164445,1019,Confirmação de Pagamento,200,OK,Teste de Performance 1-235,text,true,,5780,198,136,136,https://www.blazedemo.com/confirmation.php,1008,0,0
+1693522165223,265,Confirmação de Pagamento,200,OK,Teste de Performance 1-155,text,true,,5780,198,135,135,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522164644,869,Confirmação de Pagamento,200,OK,Teste de Performance 1-118,text,true,,5780,198,134,134,https://www.blazedemo.com/confirmation.php,856,0,0
+1693522165236,290,Confirmação de Pagamento,200,OK,Teste de Performance 1-128,text,true,,5780,198,133,133,https://www.blazedemo.com/confirmation.php,277,0,0
+1693522164828,698,Confirmação de Pagamento,200,OK,Teste de Performance 1-162,text,true,,5780,198,133,133,https://www.blazedemo.com/confirmation.php,687,0,0
+1693522165217,329,Confirmação de Pagamento,200,OK,Teste de Performance 1-34,text,true,,5780,198,131,131,https://www.blazedemo.com/confirmation.php,317,0,0
+1693522165294,266,Confirmação de Pagamento,200,OK,Teste de Performance 1-39,text,true,,5780,198,130,130,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522165241,326,Confirmação de Pagamento,200,OK,Teste de Performance 1-110,text,true,,5780,198,129,129,https://www.blazedemo.com/confirmation.php,313,0,0
+1693522165306,261,Confirmação de Pagamento,200,OK,Teste de Performance 1-29,text,true,,5780,198,129,129,https://www.blazedemo.com/confirmation.php,250,0,0
+1693522165057,521,Confirmação de Pagamento,200,OK,Teste de Performance 1-68,text,true,,5780,198,127,127,https://www.blazedemo.com/confirmation.php,508,0,0
+1693522165337,272,Confirmação de Pagamento,200,OK,Teste de Performance 1-209,text,true,,5780,198,126,126,https://www.blazedemo.com/confirmation.php,261,0,0
+1693522165263,360,Confirmação de Pagamento,200,OK,Teste de Performance 1-13,text,true,,5780,198,125,125,https://www.blazedemo.com/confirmation.php,348,0,0
+1693522164873,750,Confirmação de Pagamento,200,OK,Teste de Performance 1-102,text,true,,5780,198,125,125,https://www.blazedemo.com/confirmation.php,738,0,0
+1693522164663,966,Confirmação de Pagamento,200,OK,Teste de Performance 1-19,text,true,,5780,198,123,123,https://www.blazedemo.com/confirmation.php,955,0,0
+1693522165256,375,Confirmação de Pagamento,200,OK,Teste de Performance 1-62,text,true,,5780,198,122,122,https://www.blazedemo.com/confirmation.php,364,0,0
+1693522165398,270,Confirmação de Pagamento,200,OK,Teste de Performance 1-94,text,true,,5780,198,121,121,https://www.blazedemo.com/confirmation.php,259,0,0
+1693522164799,871,Confirmação de Pagamento,200,OK,Teste de Performance 1-154,text,true,,5780,198,120,120,https://www.blazedemo.com/confirmation.php,858,0,0
+1693522165386,294,Confirmação de Pagamento,200,OK,Teste de Performance 1-55,text,true,,5780,198,119,119,https://www.blazedemo.com/confirmation.php,284,0,0
+1693522165386,308,Confirmação de Pagamento,200,OK,Teste de Performance 1-7,text,true,,5780,198,118,118,https://www.blazedemo.com/confirmation.php,294,0,0
+1693522165405,292,Confirmação de Pagamento,200,OK,Teste de Performance 1-201,text,true,,5780,198,117,117,https://www.blazedemo.com/confirmation.php,280,0,0
+1693522165396,329,Confirmação de Pagamento,200,OK,Teste de Performance 1-134,text,true,,5780,198,116,116,https://www.blazedemo.com/confirmation.php,318,0,0
+1693522165467,268,Confirmação de Pagamento,200,OK,Teste de Performance 1-168,text,true,,5780,198,115,115,https://www.blazedemo.com/confirmation.php,257,0,0
+1693522164739,996,Confirmação de Pagamento,200,OK,Teste de Performance 1-223,text,true,,5780,198,115,115,https://www.blazedemo.com/confirmation.php,985,0,0
+1693522164942,802,Confirmação de Pagamento,200,OK,Teste de Performance 1-250,text,true,,5780,198,113,113,https://www.blazedemo.com/confirmation.php,789,0,0
+1693522165275,473,Confirmação de Pagamento,200,OK,Teste de Performance 1-189,text,true,,5780,198,112,112,https://www.blazedemo.com/confirmation.php,460,0,0
+1693522165480,275,Confirmação de Pagamento,200,OK,Teste de Performance 1-158,text,true,,5780,198,111,111,https://www.blazedemo.com/confirmation.php,264,0,0
+1693522165505,256,Confirmação de Pagamento,200,OK,Teste de Performance 1-237,text,true,,5780,198,110,110,https://www.blazedemo.com/confirmation.php,244,0,0
+1693522165516,265,Confirmação de Pagamento,200,OK,Teste de Performance 1-224,text,true,,5780,198,109,109,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522165514,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-81,text,true,,5780,198,109,109,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522165560,257,Confirmação de Pagamento,200,OK,Teste de Performance 1-30,text,true,,5780,198,107,107,https://www.blazedemo.com/confirmation.php,246,0,0
+1693522165560,266,Confirmação de Pagamento,200,OK,Teste de Performance 1-119,text,true,,5780,198,106,106,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522165584,259,Confirmação de Pagamento,200,OK,Teste de Performance 1-49,text,true,,5780,198,105,105,https://www.blazedemo.com/confirmation.php,248,0,0
+1693522165591,256,Confirmação de Pagamento,200,OK,Teste de Performance 1-46,text,true,,5780,198,104,104,https://www.blazedemo.com/confirmation.php,243,0,0
+1693522165603,257,Confirmação de Pagamento,200,OK,Teste de Performance 1-77,text,true,,5780,198,103,103,https://www.blazedemo.com/confirmation.php,244,0,0
+1693522165623,251,Confirmação de Pagamento,200,OK,Teste de Performance 1-61,text,true,,5780,198,102,102,https://www.blazedemo.com/confirmation.php,241,0,0
+1693522165621,255,Confirmação de Pagamento,200,OK,Teste de Performance 1-173,text,true,,5780,198,101,101,https://www.blazedemo.com/confirmation.php,243,0,0
+1693522164969,924,Confirmação de Pagamento,200,OK,Teste de Performance 1-196,text,true,,5780,198,100,100,https://www.blazedemo.com/confirmation.php,912,0,0
+1693522165619,287,Confirmação de Pagamento,200,OK,Teste de Performance 1-211,text,true,,5780,198,99,99,https://www.blazedemo.com/confirmation.php,275,0,0
+1693522165655,254,Confirmação de Pagamento,200,OK,Teste de Performance 1-50,text,true,,5780,198,98,98,https://www.blazedemo.com/confirmation.php,242,0,0
+1693522164912,1003,Confirmação de Pagamento,200,OK,Teste de Performance 1-73,text,true,,5780,198,97,97,https://www.blazedemo.com/confirmation.php,992,0,0
+1693522164872,1045,Confirmação de Pagamento,200,OK,Teste de Performance 1-217,text,true,,5780,198,96,96,https://www.blazedemo.com/confirmation.php,1034,0,0
+1693522165678,274,Confirmação de Pagamento,200,OK,Teste de Performance 1-200,text,true,,5780,198,95,95,https://www.blazedemo.com/confirmation.php,262,0,0
+1693522165693,273,Confirmação de Pagamento,200,OK,Teste de Performance 1-10,text,true,,5780,198,94,94,https://www.blazedemo.com/confirmation.php,262,0,0
+1693522165704,272,Confirmação de Pagamento,200,OK,Teste de Performance 1-121,text,true,,5780,198,93,93,https://www.blazedemo.com/confirmation.php,259,0,0
+1693522165719,263,Confirmação de Pagamento,200,OK,Teste de Performance 1-234,text,true,,5780,198,92,92,https://www.blazedemo.com/confirmation.php,251,0,0
+1693522164867,1140,Confirmação de Pagamento,200,OK,Teste de Performance 1-183,text,true,,5780,198,91,91,https://www.blazedemo.com/confirmation.php,1132,0,0
+1693522165751,271,Confirmação de Pagamento,200,OK,Teste de Performance 1-80,text,true,,5780,198,90,90,https://www.blazedemo.com/confirmation.php,259,0,0
+1693522165745,295,Confirmação de Pagamento,200,OK,Teste de Performance 1-56,text,true,,5780,198,89,89,https://www.blazedemo.com/confirmation.php,284,0,0
+1693522164891,1155,Confirmação de Pagamento,200,OK,Teste de Performance 1-180,text,true,,5780,198,88,88,https://www.blazedemo.com/confirmation.php,1143,0,0
+1693522165799,250,Confirmação de Pagamento,200,OK,Teste de Performance 1-137,text,true,,5780,198,87,87,https://www.blazedemo.com/confirmation.php,238,0,0
+1693522165057,1001,Confirmação de Pagamento,200,OK,Teste de Performance 1-178,text,true,,5780,198,86,86,https://www.blazedemo.com/confirmation.php,989,0,0
+1693522165808,255,Confirmação de Pagamento,200,OK,Teste de Performance 1-182,text,true,,5780,198,85,85,https://www.blazedemo.com/confirmation.php,244,0,0
+1693522165807,258,Confirmação de Pagamento,200,OK,Teste de Performance 1-160,text,true,,5780,198,84,84,https://www.blazedemo.com/confirmation.php,247,0,0
+1693522165819,272,Confirmação de Pagamento,200,OK,Teste de Performance 1-139,text,true,,5780,198,83,83,https://www.blazedemo.com/confirmation.php,261,0,0
+1693522164872,1228,Confirmação de Pagamento,200,OK,Teste de Performance 1-140,text,true,,5780,198,82,82,https://www.blazedemo.com/confirmation.php,1216,0,0
+1693522165816,303,Confirmação de Pagamento,200,OK,Teste de Performance 1-18,text,true,,5780,198,81,81,https://www.blazedemo.com/confirmation.php,292,0,0
+1693522165814,317,Confirmação de Pagamento,200,OK,Teste de Performance 1-149,text,true,,5780,198,80,80,https://www.blazedemo.com/confirmation.php,305,0,0
+1693522165890,253,Confirmação de Pagamento,200,OK,Teste de Performance 1-184,text,true,,5780,198,79,79,https://www.blazedemo.com/confirmation.php,242,0,0
+1693522165903,255,Confirmação de Pagamento,200,OK,Teste de Performance 1-135,text,true,,5780,198,78,78,https://www.blazedemo.com/confirmation.php,245,0,0
+1693522164902,1259,Confirmação de Pagamento,200,OK,Teste de Performance 1-76,text,true,,5780,198,77,77,https://www.blazedemo.com/confirmation.php,1248,0,0
+1693522165909,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-111,text,true,,5780,198,76,76,https://www.blazedemo.com/confirmation.php,258,0,0
+1693522165915,263,Confirmação de Pagamento,200,OK,Teste de Performance 1-221,text,true,,5780,198,75,75,https://www.blazedemo.com/confirmation.php,252,0,0
+1693522165918,261,Confirmação de Pagamento,200,OK,Teste de Performance 1-130,text,true,,5780,198,74,74,https://www.blazedemo.com/confirmation.php,250,0,0
+1693522165928,263,Confirmação de Pagamento,200,OK,Teste de Performance 1-45,text,true,,5780,198,73,73,https://www.blazedemo.com/confirmation.php,252,0,0
+1693522165251,943,Confirmação de Pagamento,200,OK,Teste de Performance 1-151,text,true,,5780,198,72,72,https://www.blazedemo.com/confirmation.php,935,0,0
+1693522164885,1311,Confirmação de Pagamento,200,OK,Teste de Performance 1-228,text,true,,5780,198,71,71,https://www.blazedemo.com/confirmation.php,1301,0,0
+1693522165881,318,Confirmação de Pagamento,200,OK,Teste de Performance 1-91,text,true,,5780,198,70,70,https://www.blazedemo.com/confirmation.php,315,0,0
+1693522165263,938,Confirmação de Pagamento,200,OK,Teste de Performance 1-6,text,true,,5780,198,69,69,https://www.blazedemo.com/confirmation.php,926,0,0
+1693522164902,1318,Confirmação de Pagamento,200,OK,Teste de Performance 1-141,text,true,,5780,198,68,68,https://www.blazedemo.com/confirmation.php,1304,0,0
+1693522166020,259,Confirmação de Pagamento,200,OK,Teste de Performance 1-116,text,true,,5780,198,67,67,https://www.blazedemo.com/confirmation.php,247,0,0
+1693522165315,978,Confirmação de Pagamento,200,OK,Teste de Performance 1-214,text,true,,5780,198,66,66,https://www.blazedemo.com/confirmation.php,966,0,0
+1693522166053,260,Confirmação de Pagamento,200,OK,Teste de Performance 1-3,text,true,,5780,198,65,65,https://www.blazedemo.com/confirmation.php,249,0,0
+1693522165995,340,Confirmação de Pagamento,200,OK,Teste de Performance 1-88,text,true,,5780,198,64,64,https://www.blazedemo.com/confirmation.php,329,0,0
+1693522166092,251,Confirmação de Pagamento,200,OK,Teste de Performance 1-208,text,true,,5780,198,63,63,https://www.blazedemo.com/confirmation.php,238,0,0
+1693522166076,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-125,text,true,,5780,198,63,63,https://www.blazedemo.com/confirmation.php,254,0,0
+1693522165725,620,Confirmação de Pagamento,200,OK,Teste de Performance 1-195,text,true,,5780,198,61,61,https://www.blazedemo.com/confirmation.php,610,0,0
+1693522166092,253,Confirmação de Pagamento,200,OK,Teste de Performance 1-240,text,true,,5780,198,61,61,https://www.blazedemo.com/confirmation.php,243,0,0
+1693522165745,608,Confirmação de Pagamento,200,OK,Teste de Performance 1-16,text,true,,5780,198,59,59,https://www.blazedemo.com/confirmation.php,596,0,0
+1693522164994,1428,Confirmação de Pagamento,200,OK,Teste de Performance 1-176,text,true,,5780,198,58,58,https://www.blazedemo.com/confirmation.php,1418,0,0
+1693522166147,277,Confirmação de Pagamento,200,OK,Teste de Performance 1-241,text,true,,5780,198,57,57,https://www.blazedemo.com/confirmation.php,266,0,0
+1693522165272,1158,Confirmação de Pagamento,200,OK,Teste de Performance 1-44,text,true,,5780,198,56,56,https://www.blazedemo.com/confirmation.php,1149,0,0
+1693522166168,265,Confirmação de Pagamento,200,OK,Teste de Performance 1-37,text,true,,5780,198,55,55,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522166168,303,Confirmação de Pagamento,200,OK,Teste de Performance 1-112,text,true,,5780,198,54,54,https://www.blazedemo.com/confirmation.php,262,0,0
+1693522166174,297,Confirmação de Pagamento,200,OK,Teste de Performance 1-171,text,true,,5780,198,54,54,https://www.blazedemo.com/confirmation.php,297,0,0
+1693522166155,317,Confirmação de Pagamento,200,OK,Teste de Performance 1-12,text,true,,5780,198,54,54,https://www.blazedemo.com/confirmation.php,316,0,0
+1693522165863,609,Confirmação de Pagamento,200,OK,Teste de Performance 1-57,text,true,,5780,198,54,54,https://www.blazedemo.com/confirmation.php,608,0,0
+1693522166244,273,Confirmação de Pagamento,200,OK,Teste de Performance 1-58,text,true,,5780,198,50,50,https://www.blazedemo.com/confirmation.php,261,0,0
+1693522165275,1245,Confirmação de Pagamento,200,OK,Teste de Performance 1-246,text,true,,5780,198,49,49,https://www.blazedemo.com/confirmation.php,1235,0,0
+1693522166262,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-186,text,true,,5780,198,48,48,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522166280,265,Confirmação de Pagamento,200,OK,Teste de Performance 1-172,text,true,,5780,198,47,47,https://www.blazedemo.com/confirmation.php,252,0,0
+1693522166286,267,Confirmação de Pagamento,200,OK,Teste de Performance 1-25,text,true,,5780,198,46,46,https://www.blazedemo.com/confirmation.php,255,0,0
+1693522166160,400,Confirmação de Pagamento,200,OK,Teste de Performance 1-222,text,true,,5780,198,45,45,https://www.blazedemo.com/confirmation.php,387,0,0
+1693522165995,573,Confirmação de Pagamento,200,OK,Teste de Performance 1-74,text,true,,5780,198,44,44,https://www.blazedemo.com/confirmation.php,559,0,0
+1693522166302,331,Confirmação de Pagamento,200,OK,Teste de Performance 1-123,text,true,,5780,198,43,43,https://www.blazedemo.com/confirmation.php,320,0,0
+1693522166306,327,Confirmação de Pagamento,200,OK,Teste de Performance 1-54,text,true,,5780,198,43,43,https://www.blazedemo.com/confirmation.php,316,0,0
+1693522165098,1543,Confirmação de Pagamento,200,OK,Teste de Performance 1-197,text,true,,5780,198,41,41,https://www.blazedemo.com/confirmation.php,1530,0,0
+1693522165053,1591,Confirmação de Pagamento,200,OK,Teste de Performance 1-83,text,true,,5780,198,40,40,https://www.blazedemo.com/confirmation.php,1579,0,0
+1693522166396,295,Confirmação de Pagamento,200,OK,Teste de Performance 1-146,text,true,,5780,198,39,39,https://www.blazedemo.com/confirmation.php,259,0,0
+1693522166390,301,Confirmação de Pagamento,200,OK,Teste de Performance 1-79,text,true,,5780,198,39,39,https://www.blazedemo.com/confirmation.php,301,0,0
+1693522165197,1495,Confirmação de Pagamento,200,OK,Teste de Performance 1-238,text,true,,5780,198,39,39,https://www.blazedemo.com/confirmation.php,1495,0,0
+1693522166467,277,Confirmação de Pagamento,200,OK,Teste de Performance 1-100,text,true,,5780,198,36,36,https://www.blazedemo.com/confirmation.php,265,0,0
+1693522166504,258,Confirmação de Pagamento,200,OK,Teste de Performance 1-126,text,true,,5780,198,35,35,https://www.blazedemo.com/confirmation.php,246,0,0
+1693522166495,279,Confirmação de Pagamento,200,OK,Teste de Performance 1-157,text,true,,5780,198,34,34,https://www.blazedemo.com/confirmation.php,267,0,0
+1693522166515,269,Confirmação de Pagamento,200,OK,Teste de Performance 1-199,text,true,,5780,198,33,33,https://www.blazedemo.com/confirmation.php,258,0,0
+1693522165266,1520,Confirmação de Pagamento,200,OK,Teste de Performance 1-52,text,true,,5780,198,32,32,https://www.blazedemo.com/confirmation.php,1509,0,0
+1693522165723,1122,Confirmação de Pagamento,200,OK,Teste de Performance 1-198,text,true,,5780,198,31,31,https://www.blazedemo.com/confirmation.php,1110,0,0
+1693522165259,1588,Confirmação de Pagamento,200,OK,Teste de Performance 1-82,text,true,,5780,198,30,30,https://www.blazedemo.com/confirmation.php,1576,0,0
+1693522166614,250,Confirmação de Pagamento,200,OK,Teste de Performance 1-99,text,true,,5780,198,29,29,https://www.blazedemo.com/confirmation.php,238,0,0
+1693522165325,1591,Confirmação de Pagamento,200,OK,Teste de Performance 1-165,text,true,,5780,198,28,28,https://www.blazedemo.com/confirmation.php,1587,0,0
+1693522166064,852,Confirmação de Pagamento,200,OK,Teste de Performance 1-60,text,true,,5780,198,28,28,https://www.blazedemo.com/confirmation.php,848,0,0
+1693522166676,268,Confirmação de Pagamento,200,OK,Teste de Performance 1-247,text,true,,5780,198,26,26,https://www.blazedemo.com/confirmation.php,256,0,0
+1693522165822,1131,Confirmação de Pagamento,200,OK,Teste de Performance 1-87,text,true,,5780,198,25,25,https://www.blazedemo.com/confirmation.php,1120,0,0
+1693522166672,281,Confirmação de Pagamento,200,OK,Teste de Performance 1-204,text,true,,5780,198,25,25,https://www.blazedemo.com/confirmation.php,271,0,0
+1693522166672,332,Confirmação de Pagamento,200,OK,Teste de Performance 1-42,text,true,,5780,198,23,23,https://www.blazedemo.com/confirmation.php,320,0,0
+1693522165376,1685,Confirmação de Pagamento,200,OK,Teste de Performance 1-63,text,true,,5780,198,22,22,https://www.blazedemo.com/confirmation.php,1674,0,0
+1693522166344,727,Confirmação de Pagamento,200,OK,Teste de Performance 1-227,text,true,,5780,198,21,21,https://www.blazedemo.com/confirmation.php,715,0,0
+1693522166001,1086,Confirmação de Pagamento,200,OK,Teste de Performance 1-117,text,true,,5780,198,20,20,https://www.blazedemo.com/confirmation.php,1075,0,0
+1693522166776,365,Confirmação de Pagamento,200,OK,Teste de Performance 1-138,text,true,,5780,198,19,19,https://www.blazedemo.com/confirmation.php,357,0,0
+1693522166904,260,Confirmação de Pagamento,200,OK,Teste de Performance 1-179,text,true,,5780,198,18,18,https://www.blazedemo.com/confirmation.php,249,0,0
+1693522166897,293,Confirmação de Pagamento,200,OK,Teste de Performance 1-145,text,true,,5780,198,17,17,https://www.blazedemo.com/confirmation.php,280,0,0
+1693522165576,1624,Confirmação de Pagamento,200,OK,Teste de Performance 1-212,text,true,,5780,198,16,16,https://www.blazedemo.com/confirmation.php,1614,0,0
+1693522166951,255,Confirmação de Pagamento,200,OK,Teste de Performance 1-32,text,true,,5780,198,15,15,https://www.blazedemo.com/confirmation.php,243,0,0
+1693522166957,265,Confirmação de Pagamento,200,OK,Teste de Performance 1-53,text,true,,5780,198,14,14,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522166979,264,Confirmação de Pagamento,200,OK,Teste de Performance 1-205,text,true,,5780,198,13,13,https://www.blazedemo.com/confirmation.php,253,0,0
+1693522167010,287,Confirmação de Pagamento,200,OK,Teste de Performance 1-216,text,true,,5780,198,12,12,https://www.blazedemo.com/confirmation.php,275,0,0
+1693522165704,1671,Confirmação de Pagamento,200,OK,Teste de Performance 1-70,text,true,,5780,198,11,11,https://www.blazedemo.com/confirmation.php,1659,0,0
+1693522167113,278,Confirmação de Pagamento,200,OK,Teste de Performance 1-239,text,true,,5780,198,10,10,https://www.blazedemo.com/confirmation.php,266,0,0
+1693522166765,688,Confirmação de Pagamento,200,OK,Teste de Performance 1-98,text,true,,5780,198,9,9,https://www.blazedemo.com/confirmation.php,676,0,0
+1693522166795,680,Confirmação de Pagamento,200,OK,Teste de Performance 1-164,text,true,,5780,198,8,8,https://www.blazedemo.com/confirmation.php,669,0,0
+1693522166330,1172,Confirmação de Pagamento,200,OK,Teste de Performance 1-48,text,true,,5780,198,7,7,https://www.blazedemo.com/confirmation.php,1161,0,0
+1693522166465,1096,Confirmação de Pagamento,200,OK,Teste de Performance 1-9,text,true,,5780,198,6,6,https://www.blazedemo.com/confirmation.php,1084,0,0
+1693522167319,258,Confirmação de Pagamento,200,OK,Teste de Performance 1-213,text,true,,5780,198,5,5,https://www.blazedemo.com/confirmation.php,246,0,0
+1693522166580,1070,Confirmação de Pagamento,200,OK,Teste de Performance 1-36,text,true,,5780,198,4,4,https://www.blazedemo.com/confirmation.php,1059,0,0
+1693522166302,1394,Confirmação de Pagamento,200,OK,Teste de Performance 1-187,text,true,,5780,198,3,3,https://www.blazedemo.com/confirmation.php,1381,0,0
+1693522166154,1601,Confirmação de Pagamento,200,OK,Teste de Performance 1-194,text,true,,5780,198,2,2,https://www.blazedemo.com/confirmation.php,1590,0,0
+1693522167611,274,Confirmação de Pagamento,200,OK,Teste de Performance 1-152,text,true,,5780,198,1,1,https://www.blazedemo.com/confirmation.php,263,0,0

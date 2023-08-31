@@ -1,0 +1,881 @@
+2023-08-31 19:56:00,204 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-08-31 19:56:00,211 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.2\bin\user.properties
+2023-08-31 19:56:00,212 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.2\bin\system.properties
+2023-08-31 19:56:00,216 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: Version 5.6.2
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: java.version=1.8.0_381
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: os.name=Windows 11
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: os.arch=amd64
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: os.version=10.0
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: java.awt.headless=true
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-08-31 19:56:00,217 INFO o.a.j.JMeter: Available Processors =8
+2023-08-31 19:56:00,220 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-08-31 19:56:00,220 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-08-31 19:56:00,220 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.2
+2023-08-31 19:56:00,220 INFO o.a.j.JMeter: user.dir  =C:\Projetos\Desafio-teste-performance
+2023-08-31 19:56:00,221 INFO o.a.j.JMeter: PWD       =C:\Projetos\Desafio-teste-performance
+2023-08-31 19:56:00,224 INFO o.a.j.JMeter: IP: 192.168.15.181 Name: Renata FullName: Renata
+2023-08-31 19:56:00,238 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard'
+2023-08-31 19:56:00,240 INFO o.a.j.s.FileServer: Default base='C:\Projetos\Desafio-teste-performance'
+2023-08-31 19:56:00,241 INFO o.a.j.s.FileServer: Set new base='C:\Projetos\Desafio-teste-performance'
+2023-08-31 19:56:00,327 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-08-31 19:56:00,345 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-08-31 19:56:00,350 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-08-31 19:56:00,354 INFO o.a.j.s.SaveService: Loading file: Desafio-teste-performance.jmx
+2023-08-31 19:56:00,407 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-08-31 19:56:00,407 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-08-31 19:56:00,407 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-08-31 19:56:00,407 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-08-31 19:56:00,407 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-08-31 19:56:00,407 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-08-31 19:56:00,577 INFO o.a.j.JMeter: Creating summariser <summary>
+2023-08-31 19:56:00,581 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2023-08-31 19:56:00,581 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: resultado.jtl
+2023-08-31 19:56:00,581 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\apache-jmeter-5.6.2\bin\reportgenerator.properties
+2023-08-31 19:56:00,603 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2023-08-31 19:56:00,606 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2023-08-31 19:56:00,608 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2023-08-31 19:56:00,609 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2023-08-31 19:56:00,613 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,614 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,614 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,615 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,615 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,615 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,615 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,615 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,616 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,616 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2023-08-31 19:56:00,616 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2023-08-31 19:56:00,616 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2023-08-31 19:56:00,617 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2023-08-31 19:56:00,617 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2023-08-31 19:56:00,617 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2023-08-31 19:56:00,617 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2023-08-31 19:56:00,634 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-08-31 19:56:00,640 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-08-31 19:56:00,640 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-08-31 19:56:00,646 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-08-31 19:56:00,646 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-08-31 19:56:00,861 INFO o.a.j.JMeter: Running test (1693522560860)
+2023-08-31 19:56:00,897 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Teste de Performance
+2023-08-31 19:56:00,897 INFO o.a.j.e.StandardJMeterEngine: Starting 250 threads for group Teste de Performance.
+2023-08-31 19:56:00,897 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-08-31 19:56:00,897 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=250 ramp-up=1 delayedStart=false
+2023-08-31 19:56:00,905 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-1
+2023-08-31 19:56:00,907 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-2
+2023-08-31 19:56:00,908 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-3
+2023-08-31 19:56:00,912 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-4
+2023-08-31 19:56:00,915 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-5
+2023-08-31 19:56:00,919 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-6
+2023-08-31 19:56:00,923 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-7
+2023-08-31 19:56:00,927 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-8
+2023-08-31 19:56:00,932 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-9
+2023-08-31 19:56:00,936 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-10
+2023-08-31 19:56:00,940 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-11
+2023-08-31 19:56:00,944 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-12
+2023-08-31 19:56:00,949 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-13
+2023-08-31 19:56:00,953 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-14
+2023-08-31 19:56:00,956 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-15
+2023-08-31 19:56:00,960 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-16
+2023-08-31 19:56:00,964 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-17
+2023-08-31 19:56:00,967 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-18
+2023-08-31 19:56:00,971 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-19
+2023-08-31 19:56:00,976 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-20
+2023-08-31 19:56:00,980 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-21
+2023-08-31 19:56:00,984 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-22
+2023-08-31 19:56:00,988 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-23
+2023-08-31 19:56:00,988 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-08-31 19:56:00,988 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-08-31 19:56:00,992 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-24
+2023-08-31 19:56:00,996 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-25
+2023-08-31 19:56:01,000 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-26
+2023-08-31 19:56:01,003 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-27
+2023-08-31 19:56:01,007 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-28
+2023-08-31 19:56:01,011 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-29
+2023-08-31 19:56:01,016 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-30
+2023-08-31 19:56:01,019 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-31
+2023-08-31 19:56:01,023 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-32
+2023-08-31 19:56:01,028 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-33
+2023-08-31 19:56:01,032 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-34
+2023-08-31 19:56:01,036 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-35
+2023-08-31 19:56:01,039 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-36
+2023-08-31 19:56:01,042 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-37
+2023-08-31 19:56:01,047 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-38
+2023-08-31 19:56:01,051 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-39
+2023-08-31 19:56:01,054 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-40
+2023-08-31 19:56:01,059 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-41
+2023-08-31 19:56:01,063 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-42
+2023-08-31 19:56:01,066 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-43
+2023-08-31 19:56:01,071 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-44
+2023-08-31 19:56:01,075 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-45
+2023-08-31 19:56:01,078 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-46
+2023-08-31 19:56:01,083 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-47
+2023-08-31 19:56:01,087 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-48
+2023-08-31 19:56:01,091 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-49
+2023-08-31 19:56:01,095 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-50
+2023-08-31 19:56:01,099 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-51
+2023-08-31 19:56:01,102 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-52
+2023-08-31 19:56:01,108 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-53
+2023-08-31 19:56:01,112 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-54
+2023-08-31 19:56:01,115 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-55
+2023-08-31 19:56:01,119 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-56
+2023-08-31 19:56:01,124 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-57
+2023-08-31 19:56:01,127 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-58
+2023-08-31 19:56:01,131 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-59
+2023-08-31 19:56:01,136 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-60
+2023-08-31 19:56:01,140 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-61
+2023-08-31 19:56:01,143 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-62
+2023-08-31 19:56:01,148 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-63
+2023-08-31 19:56:01,152 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-64
+2023-08-31 19:56:01,155 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-65
+2023-08-31 19:56:01,159 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-66
+2023-08-31 19:56:01,164 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-67
+2023-08-31 19:56:01,168 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-68
+2023-08-31 19:56:01,170 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-69
+2023-08-31 19:56:01,176 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-70
+2023-08-31 19:56:01,180 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-71
+2023-08-31 19:56:01,183 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-72
+2023-08-31 19:56:01,187 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-73
+2023-08-31 19:56:01,190 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-74
+2023-08-31 19:56:01,196 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-75
+2023-08-31 19:56:01,200 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-76
+2023-08-31 19:56:01,204 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-77
+2023-08-31 19:56:01,207 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-78
+2023-08-31 19:56:01,211 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-79
+2023-08-31 19:56:01,216 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-80
+2023-08-31 19:56:01,220 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-81
+2023-08-31 19:56:01,222 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-82
+2023-08-31 19:56:01,227 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-83
+2023-08-31 19:56:01,232 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-84
+2023-08-31 19:56:01,235 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-85
+2023-08-31 19:56:01,239 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-86
+2023-08-31 19:56:01,244 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-87
+2023-08-31 19:56:01,248 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-88
+2023-08-31 19:56:01,251 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-89
+2023-08-31 19:56:01,255 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-90
+2023-08-31 19:56:01,259 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-91
+2023-08-31 19:56:01,262 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-92
+2023-08-31 19:56:01,266 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-93
+2023-08-31 19:56:01,271 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-94
+2023-08-31 19:56:01,275 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-95
+2023-08-31 19:56:01,279 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-96
+2023-08-31 19:56:01,284 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-97
+2023-08-31 19:56:01,287 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-98
+2023-08-31 19:56:01,291 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-99
+2023-08-31 19:56:01,296 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-100
+2023-08-31 19:56:01,299 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-101
+2023-08-31 19:56:01,303 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-102
+2023-08-31 19:56:01,308 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-103
+2023-08-31 19:56:01,311 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-104
+2023-08-31 19:56:01,314 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-105
+2023-08-31 19:56:01,319 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-106
+2023-08-31 19:56:01,323 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-107
+2023-08-31 19:56:01,326 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-108
+2023-08-31 19:56:01,331 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-109
+2023-08-31 19:56:01,335 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-110
+2023-08-31 19:56:01,338 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-111
+2023-08-31 19:56:01,343 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-112
+2023-08-31 19:56:01,348 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-113
+2023-08-31 19:56:01,352 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-114
+2023-08-31 19:56:01,355 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-115
+2023-08-31 19:56:01,359 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-116
+2023-08-31 19:56:01,364 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-117
+2023-08-31 19:56:01,367 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-118
+2023-08-31 19:56:01,372 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-119
+2023-08-31 19:56:01,375 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-120
+2023-08-31 19:56:01,378 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-121
+2023-08-31 19:56:01,383 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-122
+2023-08-31 19:56:01,387 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-123
+2023-08-31 19:56:01,390 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-124
+2023-08-31 19:56:01,395 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-125
+2023-08-31 19:56:01,400 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-126
+2023-08-31 19:56:01,403 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-127
+2023-08-31 19:56:01,408 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-128
+2023-08-31 19:56:01,411 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-129
+2023-08-31 19:56:01,414 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-130
+2023-08-31 19:56:01,418 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-131
+2023-08-31 19:56:01,424 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-132
+2023-08-31 19:56:01,428 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-133
+2023-08-31 19:56:01,431 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-134
+2023-08-31 19:56:01,436 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-135
+2023-08-31 19:56:01,439 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-136
+2023-08-31 19:56:01,442 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-137
+2023-08-31 19:56:01,446 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-138
+2023-08-31 19:56:01,451 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-139
+2023-08-31 19:56:01,455 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-140
+2023-08-31 19:56:01,459 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-141
+2023-08-31 19:56:01,464 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-142
+2023-08-31 19:56:01,467 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-143
+2023-08-31 19:56:01,470 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-144
+2023-08-31 19:56:01,475 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-145
+2023-08-31 19:56:01,479 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-146
+2023-08-31 19:56:01,482 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-147
+2023-08-31 19:56:01,487 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-148
+2023-08-31 19:56:01,491 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-149
+2023-08-31 19:56:01,494 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-150
+2023-08-31 19:56:01,500 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-151
+2023-08-31 19:56:01,504 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-152
+2023-08-31 19:56:01,506 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-153
+2023-08-31 19:56:01,511 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-154
+2023-08-31 19:56:01,515 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-155
+2023-08-31 19:56:01,518 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-156
+2023-08-31 19:56:01,522 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-157
+2023-08-31 19:56:01,527 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-158
+2023-08-31 19:56:01,531 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-159
+2023-08-31 19:56:01,535 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-160
+2023-08-31 19:56:01,539 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-161
+2023-08-31 19:56:01,543 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-162
+2023-08-31 19:56:01,546 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-163
+2023-08-31 19:56:01,551 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-164
+2023-08-31 19:56:01,555 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-165
+2023-08-31 19:56:01,558 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-166
+2023-08-31 19:56:01,562 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-167
+2023-08-31 19:56:01,567 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-168
+2023-08-31 19:56:01,571 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-169
+2023-08-31 19:56:01,574 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-170
+2023-08-31 19:56:01,579 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-171
+2023-08-31 19:56:01,583 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-172
+2023-08-31 19:56:01,586 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-173
+2023-08-31 19:56:01,590 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-174
+2023-08-31 19:56:01,595 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-175
+2023-08-31 19:56:01,599 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-176
+2023-08-31 19:56:01,604 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-177
+2023-08-31 19:56:01,608 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-178
+2023-08-31 19:56:01,611 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-179
+2023-08-31 19:56:01,615 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-180
+2023-08-31 19:56:01,620 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-181
+2023-08-31 19:56:01,623 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-182
+2023-08-31 19:56:01,628 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-183
+2023-08-31 19:56:01,632 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-184
+2023-08-31 19:56:01,635 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-185
+2023-08-31 19:56:01,640 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-186
+2023-08-31 19:56:01,644 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-187
+2023-08-31 19:56:01,647 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-188
+2023-08-31 19:56:01,652 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-189
+2023-08-31 19:56:01,656 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-190
+2023-08-31 19:56:01,659 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-191
+2023-08-31 19:56:01,664 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-192
+2023-08-31 19:56:01,668 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-193
+2023-08-31 19:56:01,671 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-194
+2023-08-31 19:56:01,676 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-195
+2023-08-31 19:56:01,680 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-196
+2023-08-31 19:56:01,682 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-197
+2023-08-31 19:56:01,686 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-198
+2023-08-31 19:56:01,692 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-199
+2023-08-31 19:56:01,695 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-200
+2023-08-31 19:56:01,699 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-201
+2023-08-31 19:56:01,704 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-202
+2023-08-31 19:56:01,708 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-203
+2023-08-31 19:56:01,711 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-204
+2023-08-31 19:56:01,716 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-205
+2023-08-31 19:56:01,720 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-206
+2023-08-31 19:56:01,723 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-207
+2023-08-31 19:56:01,727 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-208
+2023-08-31 19:56:01,731 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-209
+2023-08-31 19:56:01,735 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-210
+2023-08-31 19:56:01,738 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-211
+2023-08-31 19:56:01,744 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-212
+2023-08-31 19:56:01,746 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-213
+2023-08-31 19:56:01,751 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-214
+2023-08-31 19:56:01,756 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-215
+2023-08-31 19:56:01,760 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-216
+2023-08-31 19:56:01,763 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-217
+2023-08-31 19:56:01,767 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-218
+2023-08-31 19:56:01,771 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-219
+2023-08-31 19:56:01,777 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-220
+2023-08-31 19:56:01,778 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-221
+2023-08-31 19:56:01,783 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-222
+2023-08-31 19:56:01,787 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-223
+2023-08-31 19:56:01,790 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-224
+2023-08-31 19:56:01,794 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-225
+2023-08-31 19:56:01,799 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-226
+2023-08-31 19:56:01,803 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-227
+2023-08-31 19:56:01,806 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-228
+2023-08-31 19:56:01,811 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-229
+2023-08-31 19:56:01,815 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-230
+2023-08-31 19:56:01,819 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-231
+2023-08-31 19:56:01,824 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-232
+2023-08-31 19:56:01,827 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-233
+2023-08-31 19:56:01,830 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-234
+2023-08-31 19:56:01,834 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-235
+2023-08-31 19:56:01,839 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-236
+2023-08-31 19:56:01,844 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-237
+2023-08-31 19:56:01,847 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-238
+2023-08-31 19:56:01,852 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-239
+2023-08-31 19:56:01,855 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-240
+2023-08-31 19:56:01,858 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-241
+2023-08-31 19:56:01,863 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-242
+2023-08-31 19:56:01,867 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-243
+2023-08-31 19:56:01,870 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-244
+2023-08-31 19:56:01,875 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-245
+2023-08-31 19:56:01,880 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-246
+2023-08-31 19:56:01,883 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-247
+2023-08-31 19:56:01,886 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-248
+2023-08-31 19:56:01,891 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-249
+2023-08-31 19:56:01,895 INFO o.a.j.t.JMeterThread: Thread started: Teste de Performance 1-250
+2023-08-31 19:56:05,927 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = Renata
+2023-08-31 19:56:05,932 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-08-31 19:56:05,934 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-08-31 19:56:05,934 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-08-31 19:56:05,934 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-08-31 19:56:05,934 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-08-31 19:56:06,050 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2023-08-31 19:56:06,055 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2023-08-31 19:56:06,055 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2023-08-31 19:56:06,419 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2023-08-31 19:56:06,421 INFO o.a.j.u.SSLManager: KeyStore created OK
+2023-08-31 19:56:06,421 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2023-08-31 19:56:23,479 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-101
+2023-08-31 19:56:23,480 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-101
+2023-08-31 19:56:23,488 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-121
+2023-08-31 19:56:23,488 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-121
+2023-08-31 19:56:23,518 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-78
+2023-08-31 19:56:23,518 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-78
+2023-08-31 19:56:23,545 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-180
+2023-08-31 19:56:23,545 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-180
+2023-08-31 19:56:23,570 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-12
+2023-08-31 19:56:23,570 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-12
+2023-08-31 19:56:23,575 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-164
+2023-08-31 19:56:23,575 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-164
+2023-08-31 19:56:23,596 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-167
+2023-08-31 19:56:23,596 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-167
+2023-08-31 19:56:23,605 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-202
+2023-08-31 19:56:23,605 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-139
+2023-08-31 19:56:23,605 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-202
+2023-08-31 19:56:23,605 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-139
+2023-08-31 19:56:23,607 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-8
+2023-08-31 19:56:23,607 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-8
+2023-08-31 19:56:23,626 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-176
+2023-08-31 19:56:23,626 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-176
+2023-08-31 19:56:23,635 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-218
+2023-08-31 19:56:23,635 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-218
+2023-08-31 19:56:23,642 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-122
+2023-08-31 19:56:23,642 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-122
+2023-08-31 19:56:23,647 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-48
+2023-08-31 19:56:23,648 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-48
+2023-08-31 19:56:23,667 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-160
+2023-08-31 19:56:23,667 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-160
+2023-08-31 19:56:23,673 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-154
+2023-08-31 19:56:23,673 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-154
+2023-08-31 19:56:23,686 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-5
+2023-08-31 19:56:23,686 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-5
+2023-08-31 19:56:23,692 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-124
+2023-08-31 19:56:23,692 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-124
+2023-08-31 19:56:23,704 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-52
+2023-08-31 19:56:23,704 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-52
+2023-08-31 19:56:23,708 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-240
+2023-08-31 19:56:23,708 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-240
+2023-08-31 19:56:23,709 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-72
+2023-08-31 19:56:23,709 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-72
+2023-08-31 19:56:23,735 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-4
+2023-08-31 19:56:23,735 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-165
+2023-08-31 19:56:23,735 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-4
+2023-08-31 19:56:23,735 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-165
+2023-08-31 19:56:23,737 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-18
+2023-08-31 19:56:23,737 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-18
+2023-08-31 19:56:23,748 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-249
+2023-08-31 19:56:23,748 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-151
+2023-08-31 19:56:23,748 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-249
+2023-08-31 19:56:23,748 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-151
+2023-08-31 19:56:23,760 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-158
+2023-08-31 19:56:23,760 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-158
+2023-08-31 19:56:23,778 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-68
+2023-08-31 19:56:23,778 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-68
+2023-08-31 19:56:23,778 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-222
+2023-08-31 19:56:23,778 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-222
+2023-08-31 19:56:23,793 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-10
+2023-08-31 19:56:23,793 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-116
+2023-08-31 19:56:23,793 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-10
+2023-08-31 19:56:23,794 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-116
+2023-08-31 19:56:23,804 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-147
+2023-08-31 19:56:23,804 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-147
+2023-08-31 19:56:23,810 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-55
+2023-08-31 19:56:23,810 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-55
+2023-08-31 19:56:23,831 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-162
+2023-08-31 19:56:23,831 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-162
+2023-08-31 19:56:23,833 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-131
+2023-08-31 19:56:23,834 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-131
+2023-08-31 19:56:23,844 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-2
+2023-08-31 19:56:23,844 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-2
+2023-08-31 19:56:23,858 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-98
+2023-08-31 19:56:23,859 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-98
+2023-08-31 19:56:23,868 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-231
+2023-08-31 19:56:23,868 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-231
+2023-08-31 19:56:23,884 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-118
+2023-08-31 19:56:23,885 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-118
+2023-08-31 19:56:23,891 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-208
+2023-08-31 19:56:23,891 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-224
+2023-08-31 19:56:23,891 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-208
+2023-08-31 19:56:23,891 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-224
+2023-08-31 19:56:23,902 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-192
+2023-08-31 19:56:23,902 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-192
+2023-08-31 19:56:23,904 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-130
+2023-08-31 19:56:23,904 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-130
+2023-08-31 19:56:23,908 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-99
+2023-08-31 19:56:23,908 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-99
+2023-08-31 19:56:23,913 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-16
+2023-08-31 19:56:23,913 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-16
+2023-08-31 19:56:23,913 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-1
+2023-08-31 19:56:23,913 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-1
+2023-08-31 19:56:23,915 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-156
+2023-08-31 19:56:23,915 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-156
+2023-08-31 19:56:23,926 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-51
+2023-08-31 19:56:23,927 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-51
+2023-08-31 19:56:23,929 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-103
+2023-08-31 19:56:23,929 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-103
+2023-08-31 19:56:23,935 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-13
+2023-08-31 19:56:23,935 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-206
+2023-08-31 19:56:23,935 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-13
+2023-08-31 19:56:23,935 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-206
+2023-08-31 19:56:23,936 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-157
+2023-08-31 19:56:23,936 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-157
+2023-08-31 19:56:23,955 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-128
+2023-08-31 19:56:23,955 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-127
+2023-08-31 19:56:23,955 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-128
+2023-08-31 19:56:23,955 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-127
+2023-08-31 19:56:23,967 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-214
+2023-08-31 19:56:23,967 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-214
+2023-08-31 19:56:23,983 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-25
+2023-08-31 19:56:23,983 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-25
+2023-08-31 19:56:24,004 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-135
+2023-08-31 19:56:24,004 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-135
+2023-08-31 19:56:24,017 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-69
+2023-08-31 19:56:24,018 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-69
+2023-08-31 19:56:24,025 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-37
+2023-08-31 19:56:24,026 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-37
+2023-08-31 19:56:24,026 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-243
+2023-08-31 19:56:24,026 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-243
+2023-08-31 19:56:24,027 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-87
+2023-08-31 19:56:24,028 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-87
+2023-08-31 19:56:24,062 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-250
+2023-08-31 19:56:24,062 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-217
+2023-08-31 19:56:24,062 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-250
+2023-08-31 19:56:24,062 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-217
+2023-08-31 19:56:24,063 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-17
+2023-08-31 19:56:24,063 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-17
+2023-08-31 19:56:24,070 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-3
+2023-08-31 19:56:24,070 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-3
+2023-08-31 19:56:24,079 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-65
+2023-08-31 19:56:24,079 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-65
+2023-08-31 19:56:24,083 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-187
+2023-08-31 19:56:24,083 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-187
+2023-08-31 19:56:24,087 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-161
+2023-08-31 19:56:24,087 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-161
+2023-08-31 19:56:24,087 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-166
+2023-08-31 19:56:24,087 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-166
+2023-08-31 19:56:24,113 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-168
+2023-08-31 19:56:24,113 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-61
+2023-08-31 19:56:24,113 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-168
+2023-08-31 19:56:24,113 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-61
+2023-08-31 19:56:24,117 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-242
+2023-08-31 19:56:24,117 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-242
+2023-08-31 19:56:24,121 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-198
+2023-08-31 19:56:24,121 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-198
+2023-08-31 19:56:24,126 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-120
+2023-08-31 19:56:24,126 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-120
+2023-08-31 19:56:24,146 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-225
+2023-08-31 19:56:24,146 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-225
+2023-08-31 19:56:24,146 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-53
+2023-08-31 19:56:24,147 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-53
+2023-08-31 19:56:24,150 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-191
+2023-08-31 19:56:24,150 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-191
+2023-08-31 19:56:24,152 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-140
+2023-08-31 19:56:24,152 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-140
+2023-08-31 19:56:24,152 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-149
+2023-08-31 19:56:24,152 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-149
+2023-08-31 19:56:24,155 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-36
+2023-08-31 19:56:24,155 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-36
+2023-08-31 19:56:24,159 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-58
+2023-08-31 19:56:24,160 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-58
+2023-08-31 19:56:24,168 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-207
+2023-08-31 19:56:24,168 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-207
+2023-08-31 19:56:24,184 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-112
+2023-08-31 19:56:24,184 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-112
+2023-08-31 19:56:24,187 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-215
+2023-08-31 19:56:24,187 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-215
+2023-08-31 19:56:24,199 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-84
+2023-08-31 19:56:24,199 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-50
+2023-08-31 19:56:24,199 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-84
+2023-08-31 19:56:24,199 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-50
+2023-08-31 19:56:24,204 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-230
+2023-08-31 19:56:24,204 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-230
+2023-08-31 19:56:24,206 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-96
+2023-08-31 19:56:24,206 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-96
+2023-08-31 19:56:24,211 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-141
+2023-08-31 19:56:24,211 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-20
+2023-08-31 19:56:24,211 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-141
+2023-08-31 19:56:24,211 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-20
+2023-08-31 19:56:24,242 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-172
+2023-08-31 19:56:24,242 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-172
+2023-08-31 19:56:24,252 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-241
+2023-08-31 19:56:24,252 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-241
+2023-08-31 19:56:24,254 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-71
+2023-08-31 19:56:24,254 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-71
+2023-08-31 19:56:24,254 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-210
+2023-08-31 19:56:24,254 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-210
+2023-08-31 19:56:24,259 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-223
+2023-08-31 19:56:24,259 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-223
+2023-08-31 19:56:24,261 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-62
+2023-08-31 19:56:24,261 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-62
+2023-08-31 19:56:24,288 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-113
+2023-08-31 19:56:24,288 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-94
+2023-08-31 19:56:24,288 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-113
+2023-08-31 19:56:24,288 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-94
+2023-08-31 19:56:24,290 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-43
+2023-08-31 19:56:24,290 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-236
+2023-08-31 19:56:24,290 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-43
+2023-08-31 19:56:24,290 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-236
+2023-08-31 19:56:24,292 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-138
+2023-08-31 19:56:24,292 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-138
+2023-08-31 19:56:24,293 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-83
+2023-08-31 19:56:24,293 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-83
+2023-08-31 19:56:24,299 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-190
+2023-08-31 19:56:24,299 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-190
+2023-08-31 19:56:24,301 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-183
+2023-08-31 19:56:24,301 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-183
+2023-08-31 19:56:24,317 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-29
+2023-08-31 19:56:24,317 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-29
+2023-08-31 19:56:24,319 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-82
+2023-08-31 19:56:24,319 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-82
+2023-08-31 19:56:24,322 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-97
+2023-08-31 19:56:24,322 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-97
+2023-08-31 19:56:24,338 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-23
+2023-08-31 19:56:24,338 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-44
+2023-08-31 19:56:24,338 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-23
+2023-08-31 19:56:24,338 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-44
+2023-08-31 19:56:24,338 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-235
+2023-08-31 19:56:24,338 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-235
+2023-08-31 19:56:24,345 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-196
+2023-08-31 19:56:24,345 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-196
+2023-08-31 19:56:24,352 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-119
+2023-08-31 19:56:24,352 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-119
+2023-08-31 19:56:24,352 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-38
+2023-08-31 19:56:24,352 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-38
+2023-08-31 19:56:24,365 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-89
+2023-08-31 19:56:24,365 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-89
+2023-08-31 19:56:24,372 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-80
+2023-08-31 19:56:24,372 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-80
+2023-08-31 19:56:24,372 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-114
+2023-08-31 19:56:24,372 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-114
+2023-08-31 19:56:24,380 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-86
+2023-08-31 19:56:24,380 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-136
+2023-08-31 19:56:24,381 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-136
+2023-08-31 19:56:24,381 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-86
+2023-08-31 19:56:24,381 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-177
+2023-08-31 19:56:24,381 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-177
+2023-08-31 19:56:24,383 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-232
+2023-08-31 19:56:24,383 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-232
+2023-08-31 19:56:24,395 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-220
+2023-08-31 19:56:24,396 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-220
+2023-08-31 19:56:24,397 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-153
+2023-08-31 19:56:24,397 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-153
+2023-08-31 19:56:24,399 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-93
+2023-08-31 19:56:24,399 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-93
+2023-08-31 19:56:24,403 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-56
+2023-08-31 19:56:24,403 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-56
+2023-08-31 19:56:24,413 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-133
+2023-08-31 19:56:24,413 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-133
+2023-08-31 19:56:24,419 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-179
+2023-08-31 19:56:24,419 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-179
+2023-08-31 19:56:24,424 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-54
+2023-08-31 19:56:24,424 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-54
+2023-08-31 19:56:24,430 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-63
+2023-08-31 19:56:24,430 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-63
+2023-08-31 19:56:24,455 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-181
+2023-08-31 19:56:24,455 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-181
+2023-08-31 19:56:24,457 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-42
+2023-08-31 19:56:24,457 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-42
+2023-08-31 19:56:24,460 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-173
+2023-08-31 19:56:24,460 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-173
+2023-08-31 19:56:24,463 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-115
+2023-08-31 19:56:24,463 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-115
+2023-08-31 19:56:24,472 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-9
+2023-08-31 19:56:24,472 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-9
+2023-08-31 19:56:24,480 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-110
+2023-08-31 19:56:24,480 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-110
+2023-08-31 19:56:24,484 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-45
+2023-08-31 19:56:24,484 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-45
+2023-08-31 19:56:24,489 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-142
+2023-08-31 19:56:24,489 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-142
+2023-08-31 19:56:24,497 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-145
+2023-08-31 19:56:24,497 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-145
+2023-08-31 19:56:24,499 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-92
+2023-08-31 19:56:24,499 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-92
+2023-08-31 19:56:24,502 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-76
+2023-08-31 19:56:24,502 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-76
+2023-08-31 19:56:24,508 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-170
+2023-08-31 19:56:24,508 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-170
+2023-08-31 19:56:24,508 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-244
+2023-08-31 19:56:24,508 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-244
+2023-08-31 19:56:24,514 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-102
+2023-08-31 19:56:24,515 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-102
+2023-08-31 19:56:24,519 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-19
+2023-08-31 19:56:24,519 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-201
+2023-08-31 19:56:24,519 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-19
+2023-08-31 19:56:24,519 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-201
+2023-08-31 19:56:24,525 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-245
+2023-08-31 19:56:24,525 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-245
+2023-08-31 19:56:24,526 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-239
+2023-08-31 19:56:24,527 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-239
+2023-08-31 19:56:24,537 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-95
+2023-08-31 19:56:24,537 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-152
+2023-08-31 19:56:24,537 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-95
+2023-08-31 19:56:24,537 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-152
+2023-08-31 19:56:24,564 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-175
+2023-08-31 19:56:24,564 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-175
+2023-08-31 19:56:24,567 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-125
+2023-08-31 19:56:24,567 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-125
+2023-08-31 19:56:24,571 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-163
+2023-08-31 19:56:24,571 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-163
+2023-08-31 19:56:24,573 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-197
+2023-08-31 19:56:24,573 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-197
+2023-08-31 19:56:24,579 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-60
+2023-08-31 19:56:24,579 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-60
+2023-08-31 19:56:24,594 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-134
+2023-08-31 19:56:24,594 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-134
+2023-08-31 19:56:24,596 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-70
+2023-08-31 19:56:24,596 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-70
+2023-08-31 19:56:24,599 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-39
+2023-08-31 19:56:24,599 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-39
+2023-08-31 19:56:24,635 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-31
+2023-08-31 19:56:24,635 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-31
+2023-08-31 19:56:24,645 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-228
+2023-08-31 19:56:24,645 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-105
+2023-08-31 19:56:24,645 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-105
+2023-08-31 19:56:24,645 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-228
+2023-08-31 19:56:24,650 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-74
+2023-08-31 19:56:24,650 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-74
+2023-08-31 19:56:24,669 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-40
+2023-08-31 19:56:24,669 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-40
+2023-08-31 19:56:24,671 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-24
+2023-08-31 19:56:24,671 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-24
+2023-08-31 19:56:24,682 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-85
+2023-08-31 19:56:24,682 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-233
+2023-08-31 19:56:24,682 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-85
+2023-08-31 19:56:24,682 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-233
+2023-08-31 19:56:24,693 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-171
+2023-08-31 19:56:24,694 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-171
+2023-08-31 19:56:24,695 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-195
+2023-08-31 19:56:24,695 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-195
+2023-08-31 19:56:24,699 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-148
+2023-08-31 19:56:24,699 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-148
+2023-08-31 19:56:24,702 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-237
+2023-08-31 19:56:24,702 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-237
+2023-08-31 19:56:24,704 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-32
+2023-08-31 19:56:24,704 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-32
+2023-08-31 19:56:24,716 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-22
+2023-08-31 19:56:24,716 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-22
+2023-08-31 19:56:24,718 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-100
+2023-08-31 19:56:24,718 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-100
+2023-08-31 19:56:24,722 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-226
+2023-08-31 19:56:24,722 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-226
+2023-08-31 19:56:24,730 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-182
+2023-08-31 19:56:24,730 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-182
+2023-08-31 19:56:24,757 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-199
+2023-08-31 19:56:24,757 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-199
+2023-08-31 19:56:24,762 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-14
+2023-08-31 19:56:24,762 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-14
+2023-08-31 19:56:24,784 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-234
+2023-08-31 19:56:24,784 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-234
+2023-08-31 19:56:24,785 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-6
+2023-08-31 19:56:24,785 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-6
+2023-08-31 19:56:24,787 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-26
+2023-08-31 19:56:24,787 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-26
+2023-08-31 19:56:24,789 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-212
+2023-08-31 19:56:24,790 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-212
+2023-08-31 19:56:24,792 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-144
+2023-08-31 19:56:24,792 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-144
+2023-08-31 19:56:24,797 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-219
+2023-08-31 19:56:24,797 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-219
+2023-08-31 19:56:24,797 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-227
+2023-08-31 19:56:24,797 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-227
+2023-08-31 19:56:24,819 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-221
+2023-08-31 19:56:24,819 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-221
+2023-08-31 19:56:24,819 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-126
+2023-08-31 19:56:24,819 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-73
+2023-08-31 19:56:24,819 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-126
+2023-08-31 19:56:24,819 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-73
+2023-08-31 19:56:24,825 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-188
+2023-08-31 19:56:24,825 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-188
+2023-08-31 19:56:24,841 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-88
+2023-08-31 19:56:24,841 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-88
+2023-08-31 19:56:24,841 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-11
+2023-08-31 19:56:24,842 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-11
+2023-08-31 19:56:24,850 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-185
+2023-08-31 19:56:24,850 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-216
+2023-08-31 19:56:24,850 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-216
+2023-08-31 19:56:24,850 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-185
+2023-08-31 19:56:24,859 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-155
+2023-08-31 19:56:24,859 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-155
+2023-08-31 19:56:24,866 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-28
+2023-08-31 19:56:24,866 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-28
+2023-08-31 19:56:24,871 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-123
+2023-08-31 19:56:24,871 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-123
+2023-08-31 19:56:24,873 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-47
+2023-08-31 19:56:24,873 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-47
+2023-08-31 19:56:24,886 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-178
+2023-08-31 19:56:24,886 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-178
+2023-08-31 19:56:24,893 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-79
+2023-08-31 19:56:24,893 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-79
+2023-08-31 19:56:24,896 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-64
+2023-08-31 19:56:24,896 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-64
+2023-08-31 19:56:24,900 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-247
+2023-08-31 19:56:24,900 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-247
+2023-08-31 19:56:24,915 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-107
+2023-08-31 19:56:24,915 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-107
+2023-08-31 19:56:24,951 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-203
+2023-08-31 19:56:24,952 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-203
+2023-08-31 19:56:24,953 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-143
+2023-08-31 19:56:24,953 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-143
+2023-08-31 19:56:24,965 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-229
+2023-08-31 19:56:24,965 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-229
+2023-08-31 19:56:24,969 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-75
+2023-08-31 19:56:24,969 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-75
+2023-08-31 19:56:24,971 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-57
+2023-08-31 19:56:24,971 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-57
+2023-08-31 19:56:24,976 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-169
+2023-08-31 19:56:24,976 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-169
+2023-08-31 19:56:25,019 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-41
+2023-08-31 19:56:25,019 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-41
+2023-08-31 19:56:25,023 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-66
+2023-08-31 19:56:25,023 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-66
+2023-08-31 19:56:25,033 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-106
+2023-08-31 19:56:25,033 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-106
+2023-08-31 19:56:25,047 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-33
+2023-08-31 19:56:25,048 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-33
+2023-08-31 19:56:25,063 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-91
+2023-08-31 19:56:25,063 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-91
+2023-08-31 19:56:25,068 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-204
+2023-08-31 19:56:25,069 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-204
+2023-08-31 19:56:25,077 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-238
+2023-08-31 19:56:25,077 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-238
+2023-08-31 19:56:25,088 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-15
+2023-08-31 19:56:25,088 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-15
+2023-08-31 19:56:25,109 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-137
+2023-08-31 19:56:25,109 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-137
+2023-08-31 19:56:25,136 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-150
+2023-08-31 19:56:25,136 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-150
+2023-08-31 19:56:25,161 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-104
+2023-08-31 19:56:25,161 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-104
+2023-08-31 19:56:25,171 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-129
+2023-08-31 19:56:25,171 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-129
+2023-08-31 19:56:25,173 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-30
+2023-08-31 19:56:25,173 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-30
+2023-08-31 19:56:25,180 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-46
+2023-08-31 19:56:25,180 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-46
+2023-08-31 19:56:25,185 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-7
+2023-08-31 19:56:25,185 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-7
+2023-08-31 19:56:25,195 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-81
+2023-08-31 19:56:25,195 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-81
+2023-08-31 19:56:25,209 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-59
+2023-08-31 19:56:25,209 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-209
+2023-08-31 19:56:25,209 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-59
+2023-08-31 19:56:25,209 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-209
+2023-08-31 19:56:25,216 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-193
+2023-08-31 19:56:25,216 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-193
+2023-08-31 19:56:25,232 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-77
+2023-08-31 19:56:25,232 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-77
+2023-08-31 19:56:25,234 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-200
+2023-08-31 19:56:25,234 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-200
+2023-08-31 19:56:25,238 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-108
+2023-08-31 19:56:25,238 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-108
+2023-08-31 19:56:25,248 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-194
+2023-08-31 19:56:25,248 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-194
+2023-08-31 19:56:25,302 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-189
+2023-08-31 19:56:25,302 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-189
+2023-08-31 19:56:25,302 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-90
+2023-08-31 19:56:25,302 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-90
+2023-08-31 19:56:25,305 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-174
+2023-08-31 19:56:25,305 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-174
+2023-08-31 19:56:25,327 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-49
+2023-08-31 19:56:25,327 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-49
+2023-08-31 19:56:25,354 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-146
+2023-08-31 19:56:25,354 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-146
+2023-08-31 19:56:25,354 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-67
+2023-08-31 19:56:25,355 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-67
+2023-08-31 19:56:25,356 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-184
+2023-08-31 19:56:25,356 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-184
+2023-08-31 19:56:25,389 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-34
+2023-08-31 19:56:25,389 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-34
+2023-08-31 19:56:25,472 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-213
+2023-08-31 19:56:25,472 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-213
+2023-08-31 19:56:25,511 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-159
+2023-08-31 19:56:25,511 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-159
+2023-08-31 19:56:25,758 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-248
+2023-08-31 19:56:25,758 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-246
+2023-08-31 19:56:25,758 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-248
+2023-08-31 19:56:25,758 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-186
+2023-08-31 19:56:25,758 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-186
+2023-08-31 19:56:25,758 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-246
+2023-08-31 19:56:25,801 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-132
+2023-08-31 19:56:25,801 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-132
+2023-08-31 19:56:25,808 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-27
+2023-08-31 19:56:25,808 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-27
+2023-08-31 19:56:26,007 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-117
+2023-08-31 19:56:26,007 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-117
+2023-08-31 19:56:26,148 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-211
+2023-08-31 19:56:26,148 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-211
+2023-08-31 19:56:26,173 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-205
+2023-08-31 19:56:26,173 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-205
+2023-08-31 19:56:26,271 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-111
+2023-08-31 19:56:26,271 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-111
+2023-08-31 19:56:26,442 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-109
+2023-08-31 19:56:26,443 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-109
+2023-08-31 19:56:26,454 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-21
+2023-08-31 19:56:26,454 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-21
+2023-08-31 19:56:26,566 INFO o.a.j.t.JMeterThread: Thread is done: Teste de Performance 1-35
+2023-08-31 19:56:26,566 INFO o.a.j.t.JMeterThread: Thread finished: Teste de Performance 1-35
+2023-08-31 19:56:26,566 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-08-31 19:56:26,568 INFO o.a.j.r.Summariser: summary =   1000 in 00:00:26 =   38.9/s Avg:   770 Min:   246 Max:  3582 Err:    61 (6.10%)
+2023-08-31 19:56:26,569 INFO o.a.j.JMeter: Generating Dashboard
+2023-08-31 19:56:26,569 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2023-08-31 19:56:26,586 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2023-08-31 19:56:26,720 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2023-08-31 19:56:26,720 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2023-08-31 19:56:26,722 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2023-08-31 19:56:26,722 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2023-08-31 19:56:26,741 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2023-08-31 19:56:26,747 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2023-08-31 19:56:26,747 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2023-08-31 19:56:26,747 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2023-08-31 19:56:26,781 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2023-08-31 19:56:26,782 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2023-08-31 19:56:26,782 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2023-08-31 19:56:26,782 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2023-08-31 19:56:26,805 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2023-08-31 19:56:26,806 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 7000 samples
+2023-08-31 19:56:26,806 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2023-08-31 19:56:26,806 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2023-08-31 19:56:26,806 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2023-08-31 19:56:26,807 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2023-08-31 19:56:26,807 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2023-08-31 19:56:26,807 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2023-08-31 19:56:26,810 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2023-08-31 19:56:26,810 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2023-08-31 19:56:26,811 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2023-08-31 19:56:26,811 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2023-08-31 19:56:26,811 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 15000 samples
+2023-08-31 19:56:26,811 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 3000 samples
+2023-08-31 19:56:26,811 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 1000 samples
+2023-08-31 19:56:26,812 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 1000 samples produced in 202ms on channel 0
+2023-08-31 19:56:26,812 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2023-08-31 19:56:26,929 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2023-08-31 19:56:26,929 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2023-08-31 19:56:26,929 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2023-08-31 19:56:26,929 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2023-08-31 19:56:26,930 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard\statistics.json
+2023-08-31 19:56:26,964 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2023-08-31 19:56:26,966 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard
+2023-08-31 19:56:27,047 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard, creating folder structure
+2023-08-31 19:56:27,050 INFO o.a.j.r.d.TemplateVisitor: Copying folder from 'C:\apache-jmeter-5.6.2\bin\report-template' to 'C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard', got message: C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard, found non empty folder with following content [C:\Projetos\Desafio-teste-performance\nomeMinhaDashboard\statistics.json], will be ignored
+2023-08-31 19:56:27,634 INFO o.a.j.JMeter: Dashboard generated
